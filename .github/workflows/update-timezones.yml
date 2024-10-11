@@ -22,7 +22,7 @@ jobs:
         run: npm install moment-timezone
 
       - name: Generate timezone data
-        run: node generateTimezones.js
+        run: node tz.js  # Call the tz.js file
 
       - name: Commit and push changes
         run: |
