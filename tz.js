@@ -1,9 +1,9 @@
-// generateTimezones.js
+// tz.js
 const fs = require('fs');
 const moment = require('moment-timezone');
 
 // Predefined mapping of time zones with latitude and longitude ranges
-const timeZoneNames = [
+    const timeZoneNames = [
 // Africa
     { name: "Africa/Abidjan", latRange: [4.0, 11.0], lonRange: [-8.6, -2.5] },
     { name: "Africa/Algiers", latRange: [18.0, 37.5], lonRange: [8.0, 12.0] },
@@ -437,7 +437,6 @@ const timeZoneNames = [
     { name: "Pacific/Tongatapu", latRange: [-22.0, -20.0], lonRange: [-175.0, -172.0] },
     { name: "Pacific/Wake", latRange: [19.0, 20.0], lonRange: [166.0, 167.0] },
     { name: "Pacific/Wallis", latRange: [-13.0, -12.0], lonRange: [-176.0, -175.0] }
-
     ];
 
 // Function to format the offset in +HH or -HH
