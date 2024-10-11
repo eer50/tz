@@ -1,0 +1,5784 @@
+{
+  "Africa/Abidjan": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      4,
+      11
+    ],
+    "lonRange": [
+      -8.6,
+      -2.5
+    ]
+  },
+  "Africa/Algiers": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "CET",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      18,
+      37.5
+    ],
+    "lonRange": [
+      8,
+      12
+    ]
+  },
+  "Africa/Addis_Ababa": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      9,
+      9
+    ],
+    "lonRange": [
+      38.75,
+      38.75
+    ]
+  },
+  "Africa/Asmara": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      15,
+      18
+    ],
+    "lonRange": [
+      37,
+      40
+    ]
+  },
+  "Africa/Bamako": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      10,
+      15
+    ],
+    "lonRange": [
+      -11,
+      -4
+    ]
+  },
+  "Africa/Bangui": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      2,
+      10
+    ],
+    "lonRange": [
+      14,
+      25
+    ]
+  },
+  "Africa/Banjul": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      13,
+      14
+    ],
+    "lonRange": [
+      -16,
+      -13.5
+    ]
+  },
+  "Africa/Bissau": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      11.5,
+      12
+    ],
+    "lonRange": [
+      -16,
+      -13.5
+    ]
+  },
+  "Africa/Blantyre": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -17.5,
+      -10
+    ],
+    "lonRange": [
+      33,
+      36
+    ]
+  },
+  "Africa/Brazzaville": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      -5,
+      3
+    ],
+    "lonRange": [
+      12,
+      16
+    ]
+  },
+  "Africa/Bujumbura": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -4,
+      -2
+    ],
+    "lonRange": [
+      29,
+      30.5
+    ]
+  },
+  "Africa/Cairo": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      22,
+      31.5
+    ],
+    "lonRange": [
+      25,
+      35
+    ]
+  },
+  "Africa/Casablanca": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "+01",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      27,
+      36
+    ],
+    "lonRange": [
+      -9.5,
+      -1.5
+    ]
+  },
+  "Africa/Ceuta": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      35.9,
+      36.5
+    ],
+    "lonRange": [
+      -5,
+      -4.6
+    ]
+  },
+  "Africa/Conakry": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      7,
+      12.5
+    ],
+    "lonRange": [
+      -15,
+      -7.5
+    ]
+  },
+  "Africa/Dakar": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      12,
+      16
+    ],
+    "lonRange": [
+      -17,
+      -14
+    ]
+  },
+  "Africa/Dar_es_Salaam": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      -10,
+      -5
+    ],
+    "lonRange": [
+      30,
+      40
+    ]
+  },
+  "Africa/Djibouti": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      10,
+      13
+    ],
+    "lonRange": [
+      41,
+      43
+    ]
+  },
+  "Africa/Douala": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      3,
+      13
+    ],
+    "lonRange": [
+      8,
+      16
+    ]
+  },
+  "Africa/El_Aaiun": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "+01",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      26,
+      28
+    ],
+    "lonRange": [
+      -14,
+      -12
+    ]
+  },
+  "Africa/Freetown": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      6,
+      9
+    ],
+    "lonRange": [
+      -13.5,
+      -10
+    ]
+  },
+  "Africa/Gaborone": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -27,
+      -20
+    ],
+    "lonRange": [
+      20,
+      29
+    ]
+  },
+  "Africa/Harare": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -22,
+      -10
+    ],
+    "lonRange": [
+      25,
+      35
+    ]
+  },
+  "Africa/Johannesburg": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "SAST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -35,
+      -22
+    ],
+    "lonRange": [
+      16,
+      30
+    ]
+  },
+  "Africa/Juba": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      4.85,
+      4.85
+    ],
+    "lonRange": [
+      31.6,
+      31.6
+    ]
+  },
+  "Africa/Kampala": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      -1,
+      4
+    ],
+    "lonRange": [
+      29,
+      35
+    ]
+  },
+  "Africa/Khartoum": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      8,
+      23
+    ],
+    "lonRange": [
+      21,
+      38
+    ]
+  },
+  "Africa/Kigali": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -2,
+      3
+    ],
+    "lonRange": [
+      28,
+      30.5
+    ]
+  },
+  "Africa/Kinshasa": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      -5,
+      -5
+    ],
+    "lonRange": [
+      15.31,
+      15.31
+    ]
+  },
+  "Africa/Lagos": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      4,
+      14
+    ],
+    "lonRange": [
+      3.5,
+      14.5
+    ]
+  },
+  "Africa/Libreville": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      -4,
+      1
+    ],
+    "lonRange": [
+      8,
+      15
+    ]
+  },
+  "Africa/Lome": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      6.1319,
+      6.1319
+    ],
+    "lonRange": [
+      1.2228,
+      1.2228
+    ]
+  },
+  "Africa/Luanda": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      -18,
+      -8
+    ],
+    "lonRange": [
+      12,
+      20
+    ]
+  },
+  "Africa/Lubumbashi": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -11.65,
+      -11.65
+    ],
+    "lonRange": [
+      27.479,
+      27.479
+    ]
+  },
+  "Africa/Lusaka": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -18,
+      -8
+    ],
+    "lonRange": [
+      22,
+      30
+    ]
+  },
+  "Africa/Malabo": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      1,
+      3.5
+    ],
+    "lonRange": [
+      8,
+      11
+    ]
+  },
+  "Africa/Maputo": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -27,
+      -22
+    ],
+    "lonRange": [
+      30,
+      36
+    ]
+  },
+  "Africa/Maseru": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "SAST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -30,
+      -28
+    ],
+    "lonRange": [
+      27,
+      30
+    ]
+  },
+  "Africa/Mbabane": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "SAST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -27,
+      -25
+    ],
+    "lonRange": [
+      31,
+      33
+    ]
+  },
+  "Africa/Mogadishu": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      2.0469,
+      2.0469
+    ],
+    "lonRange": [
+      45.3182,
+      45.3182
+    ]
+  },
+  "Africa/Monrovia": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      6.3,
+      6.3
+    ],
+    "lonRange": [
+      -10.78,
+      -10.78
+    ]
+  },
+  "Africa/Nairobi": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      -5,
+      5
+    ],
+    "lonRange": [
+      33,
+      42
+    ]
+  },
+  "Africa/Ndjamena": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      12.1,
+      12.1
+    ],
+    "lonRange": [
+      15.0333,
+      15.0333
+    ]
+  },
+  "Africa/Niamey": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      11,
+      23
+    ],
+    "lonRange": [
+      0,
+      16
+    ]
+  },
+  "Africa/Nouakchott": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      15,
+      20
+    ],
+    "lonRange": [
+      -20,
+      -10
+    ]
+  },
+  "Africa/Ouagadougou": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      10,
+      15
+    ],
+    "lonRange": [
+      -5,
+      2
+    ]
+  },
+  "Africa/Porto-Novo": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "WAT",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      6,
+      12
+    ],
+    "lonRange": [
+      1,
+      3
+    ]
+  },
+  "Africa/Sao_Tome": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      0,
+      1.5
+    ],
+    "lonRange": [
+      6,
+      8.5
+    ]
+  },
+  "Africa/Tripoli": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "EET",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      32.9,
+      32.9
+    ],
+    "lonRange": [
+      13.18,
+      13.18
+    ]
+  },
+  "Africa/Tunis": {
+    "offset": "+01",
+    "dst": false,
+    "abbreviation": "CET",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      30,
+      37.5
+    ],
+    "lonRange": [
+      7,
+      12
+    ]
+  },
+  "Africa/Windhoek": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "CAT",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -29,
+      -17
+    ],
+    "lonRange": [
+      11,
+      20
+    ]
+  },
+  "Asia/Almaty": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      40,
+      48
+    ],
+    "lonRange": [
+      70,
+      86
+    ]
+  },
+  "Asia/Amman": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      29,
+      33.5
+    ],
+    "lonRange": [
+      35,
+      40
+    ]
+  },
+  "Asia/Anadyr": {
+    "offset": "+12",
+    "dst": false,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      50,
+      65
+    ],
+    "lonRange": [
+      142,
+      179
+    ]
+  },
+  "Asia/Aqtau": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      40,
+      47
+    ],
+    "lonRange": [
+      50,
+      57
+    ]
+  },
+  "Asia/Aqtobe": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      45,
+      55
+    ],
+    "lonRange": [
+      50,
+      62
+    ]
+  },
+  "Asia/Ashgabat": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      35,
+      42
+    ],
+    "lonRange": [
+      52,
+      67
+    ]
+  },
+  "Asia/Atyrau": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      46,
+      47
+    ],
+    "lonRange": [
+      51,
+      52
+    ]
+  },
+  "Asia/Baghdad": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      29,
+      37
+    ],
+    "lonRange": [
+      39,
+      49
+    ]
+  },
+  "Asia/Bahrain": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      25,
+      27
+    ],
+    "lonRange": [
+      50,
+      51
+    ]
+  },
+  "Asia/Baku": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      38,
+      42
+    ],
+    "lonRange": [
+      48,
+      51
+    ]
+  },
+  "Asia/Bangkok": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      5,
+      20
+    ],
+    "lonRange": [
+      97,
+      106
+    ]
+  },
+  "Asia/Barnaul": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      51,
+      54
+    ],
+    "lonRange": [
+      82,
+      86
+    ]
+  },
+  "Asia/Beirut": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      33,
+      34
+    ],
+    "lonRange": [
+      35,
+      36
+    ]
+  },
+  "Asia/Bishkek": {
+    "offset": "+06",
+    "dst": false,
+    "abbreviation": "+06",
+    "currentTime": "2024-10-11T19:36:05+06:00",
+    "latRange": [
+      39,
+      43
+    ],
+    "lonRange": [
+      69,
+      77
+    ]
+  },
+  "Asia/Brunei": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+08",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      4,
+      6
+    ],
+    "lonRange": [
+      114,
+      115
+    ]
+  },
+  "Asia/Chita": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "+09",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      51,
+      54
+    ],
+    "lonRange": [
+      113,
+      116
+    ]
+  },
+  "Asia/Choibalsan": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+08",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      42,
+      50
+    ],
+    "lonRange": [
+      110,
+      122
+    ]
+  },
+  "Asia/Chongqing": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      29,
+      38
+    ],
+    "lonRange": [
+      105,
+      115
+    ]
+  },
+  "Asia/Colombo": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+0530",
+    "currentTime": "2024-10-11T19:06:05+05:30",
+    "latRange": [
+      5,
+      10
+    ],
+    "lonRange": [
+      79,
+      82
+    ]
+  },
+  "Asia/Damascus": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      32,
+      37
+    ],
+    "lonRange": [
+      35,
+      43
+    ]
+  },
+  "Asia/Dhaka": {
+    "offset": "+06",
+    "dst": false,
+    "abbreviation": "+06",
+    "currentTime": "2024-10-11T19:36:05+06:00",
+    "latRange": [
+      20,
+      28
+    ],
+    "lonRange": [
+      88,
+      93
+    ]
+  },
+  "Asia/Dili": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "+09",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      -10,
+      -8
+    ],
+    "lonRange": [
+      124,
+      126
+    ]
+  },
+  "Asia/Dubai": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      20,
+      30
+    ],
+    "lonRange": [
+      51,
+      60
+    ]
+  },
+  "Asia/Dushanbe": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      37,
+      42
+    ],
+    "lonRange": [
+      67,
+      75
+    ]
+  },
+  "Asia/Famagusta": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      35,
+      36
+    ],
+    "lonRange": [
+      33,
+      34
+    ]
+  },
+  "Asia/Gaza": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      31,
+      32.5
+    ],
+    "lonRange": [
+      34,
+      36
+    ]
+  },
+  "Asia/Hebron": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      31,
+      32.5
+    ],
+    "lonRange": [
+      34,
+      36
+    ]
+  },
+  "Asia/Ho_Chi_Minh": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      8,
+      23
+    ],
+    "lonRange": [
+      102,
+      110
+    ]
+  },
+  "Asia/Hong_Kong": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "HKT",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      22,
+      23.5
+    ],
+    "lonRange": [
+      114,
+      115.5
+    ]
+  },
+  "Asia/Hovd": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      45,
+      50
+    ],
+    "lonRange": [
+      90,
+      95
+    ]
+  },
+  "Asia/Irkutsk": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+08",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      50,
+      60
+    ],
+    "lonRange": [
+      100,
+      110
+    ]
+  },
+  "Asia/Jakarta": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "WIB",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      -6,
+      -4
+    ],
+    "lonRange": [
+      106,
+      108
+    ]
+  },
+  "Asia/Jayapura": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "WIT",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      -10,
+      -5
+    ],
+    "lonRange": [
+      135,
+      150
+    ]
+  },
+  "Asia/Jerusalem": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "IDT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      31,
+      32.5
+    ],
+    "lonRange": [
+      34,
+      36
+    ]
+  },
+  "Asia/Kabul": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+0430",
+    "currentTime": "2024-10-11T18:06:05+04:30",
+    "latRange": [
+      29,
+      38
+    ],
+    "lonRange": [
+      60,
+      70
+    ]
+  },
+  "Asia/Kamchatka": {
+    "offset": "+12",
+    "dst": false,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      50,
+      60
+    ],
+    "lonRange": [
+      150,
+      170
+    ]
+  },
+  "Asia/Karachi": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "PKT",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      23,
+      30
+    ],
+    "lonRange": [
+      60,
+      77
+    ]
+  },
+  "Asia/Kathmandu": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+0545",
+    "currentTime": "2024-10-11T19:21:05+05:45",
+    "latRange": [
+      26,
+      31
+    ],
+    "lonRange": [
+      80,
+      90
+    ]
+  },
+  "Asia/Khandyga": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "+09",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      61,
+      63
+    ],
+    "lonRange": [
+      128,
+      132
+    ]
+  },
+  "Asia/Kolkata": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "IST",
+    "currentTime": "2024-10-11T19:06:05+05:30",
+    "latRange": [
+      6,
+      38
+    ],
+    "lonRange": [
+      68,
+      97
+    ]
+  },
+  "Asia/Krasnoyarsk": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      50,
+      60
+    ],
+    "lonRange": [
+      80,
+      100
+    ]
+  },
+  "Asia/Kuala_Lumpur": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+08",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      1,
+      7
+    ],
+    "lonRange": [
+      99,
+      105
+    ]
+  },
+  "Asia/Kuching": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+08",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      0,
+      5
+    ],
+    "lonRange": [
+      109,
+      115
+    ]
+  },
+  "Asia/Macau": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      22,
+      23
+    ],
+    "lonRange": [
+      113,
+      114
+    ]
+  },
+  "Asia/Magadan": {
+    "offset": "+11",
+    "dst": false,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      50,
+      60
+    ],
+    "lonRange": [
+      140,
+      160
+    ]
+  },
+  "Asia/Makassar": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "WITA",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      -10,
+      5
+    ],
+    "lonRange": [
+      115,
+      130
+    ]
+  },
+  "Asia/Manila": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "PST",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      4,
+      22
+    ],
+    "lonRange": [
+      113,
+      129
+    ]
+  },
+  "Asia/Nicosia": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      33,
+      35
+    ],
+    "lonRange": [
+      32,
+      34
+    ]
+  },
+  "Asia/Novokuznetsk": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      51,
+      60
+    ],
+    "lonRange": [
+      85,
+      95
+    ]
+  },
+  "Asia/Novosibirsk": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      51,
+      60
+    ],
+    "lonRange": [
+      75,
+      85
+    ]
+  },
+  "Asia/Omsk": {
+    "offset": "+06",
+    "dst": false,
+    "abbreviation": "+06",
+    "currentTime": "2024-10-11T19:36:05+06:00",
+    "latRange": [
+      51,
+      60
+    ],
+    "lonRange": [
+      70,
+      80
+    ]
+  },
+  "Asia/Oral": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      45,
+      53
+    ],
+    "lonRange": [
+      50,
+      60
+    ]
+  },
+  "Asia/Pontianak": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "WIB",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      -1,
+      1
+    ],
+    "lonRange": [
+      108,
+      110
+    ]
+  },
+  "Asia/Pyongyang": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "KST",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      37,
+      41
+    ],
+    "lonRange": [
+      125,
+      130
+    ]
+  },
+  "Asia/Qatar": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      24,
+      30
+    ],
+    "lonRange": [
+      50,
+      56
+    ]
+  },
+  "Asia/Riyadh": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      12,
+      25
+    ],
+    "lonRange": [
+      34,
+      60
+    ]
+  },
+  "Asia/Sakhalin": {
+    "offset": "+11",
+    "dst": false,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      46,
+      54
+    ],
+    "lonRange": [
+      141,
+      144
+    ]
+  },
+  "Asia/Samarkand": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      37,
+      43
+    ],
+    "lonRange": [
+      66,
+      80
+    ]
+  },
+  "Asia/Seoul": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "KST",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      33,
+      39
+    ],
+    "lonRange": [
+      126,
+      130
+    ]
+  },
+  "Asia/Shanghai": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      18,
+      54
+    ],
+    "lonRange": [
+      73,
+      135
+    ]
+  },
+  "Asia/Singapore": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+08",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      1,
+      2
+    ],
+    "lonRange": [
+      103,
+      104
+    ]
+  },
+  "Asia/Srednekolymsk": {
+    "offset": "+11",
+    "dst": false,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      63,
+      67
+    ],
+    "lonRange": [
+      148,
+      156
+    ]
+  },
+  "Asia/Taipei": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      20,
+      25
+    ],
+    "lonRange": [
+      119,
+      123
+    ]
+  },
+  "Asia/Tashkent": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      37,
+      44
+    ],
+    "lonRange": [
+      55,
+      75
+    ]
+  },
+  "Asia/Tbilisi": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      41,
+      43
+    ],
+    "lonRange": [
+      40,
+      47
+    ]
+  },
+  "Asia/Tehran": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+0330",
+    "currentTime": "2024-10-11T17:06:05+03:30",
+    "latRange": [
+      25,
+      40
+    ],
+    "lonRange": [
+      44,
+      64
+    ]
+  },
+  "Asia/Thimphu": {
+    "offset": "+06",
+    "dst": false,
+    "abbreviation": "+06",
+    "currentTime": "2024-10-11T19:36:05+06:00",
+    "latRange": [
+      26,
+      30
+    ],
+    "lonRange": [
+      88,
+      93
+    ]
+  },
+  "Asia/Tokyo": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "JST",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      35,
+      36
+    ],
+    "lonRange": [
+      139,
+      141
+    ]
+  },
+  "Asia/Tomsk": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      55,
+      57
+    ],
+    "lonRange": [
+      84,
+      86
+    ]
+  },
+  "Asia/Ulaanbaatar": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+08",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      41,
+      50
+    ],
+    "lonRange": [
+      85,
+      110
+    ]
+  },
+  "Asia/Urumqi": {
+    "offset": "+06",
+    "dst": false,
+    "abbreviation": "+06",
+    "currentTime": "2024-10-11T19:36:05+06:00",
+    "latRange": [
+      35,
+      50
+    ],
+    "lonRange": [
+      75,
+      100
+    ]
+  },
+  "Asia/Ust-Nera": {
+    "offset": "+10",
+    "dst": false,
+    "abbreviation": "+10",
+    "currentTime": "2024-10-11T23:36:05+10:00",
+    "latRange": [
+      62,
+      65
+    ],
+    "lonRange": [
+      143,
+      147
+    ]
+  },
+  "Asia/Vientiane": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      14,
+      23
+    ],
+    "lonRange": [
+      100,
+      108
+    ]
+  },
+  "Asia/Vladivostok": {
+    "offset": "+10",
+    "dst": false,
+    "abbreviation": "+10",
+    "currentTime": "2024-10-11T23:36:05+10:00",
+    "latRange": [
+      42,
+      44
+    ],
+    "lonRange": [
+      131,
+      133
+    ]
+  },
+  "Asia/Yakutsk": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "+09",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      50,
+      65
+    ],
+    "lonRange": [
+      120,
+      140
+    ]
+  },
+  "Asia/Yangon": {
+    "offset": "+06",
+    "dst": false,
+    "abbreviation": "+0630",
+    "currentTime": "2024-10-11T20:06:05+06:30",
+    "latRange": [
+      15,
+      21
+    ],
+    "lonRange": [
+      95,
+      97
+    ]
+  },
+  "Asia/Yekaterinburg": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      56,
+      57
+    ],
+    "lonRange": [
+      60,
+      61
+    ]
+  },
+  "Asia/Yerevan": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      39,
+      41
+    ],
+    "lonRange": [
+      44,
+      45
+    ]
+  },
+  "America/Adak": {
+    "offset": "-09",
+    "dst": true,
+    "abbreviation": "HDT",
+    "currentTime": "2024-10-11T04:36:05-09:00",
+    "latRange": [
+      51,
+      60
+    ],
+    "lonRange": [
+      -178,
+      -175
+    ]
+  },
+  "America/Anchorage": {
+    "offset": "-08",
+    "dst": true,
+    "abbreviation": "AKDT",
+    "currentTime": "2024-10-11T05:36:05-08:00",
+    "latRange": [
+      51,
+      60
+    ],
+    "lonRange": [
+      -150,
+      -130
+    ]
+  },
+  "America/Anguilla": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      18,
+      20
+    ],
+    "lonRange": [
+      -63,
+      -61
+    ]
+  },
+  "America/Antigua": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      16,
+      18
+    ],
+    "lonRange": [
+      -62,
+      -60
+    ]
+  },
+  "America/Araguaina": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -8,
+      -7
+    ],
+    "lonRange": [
+      -48,
+      -47
+    ]
+  },
+  "America/Argentina/Buenos_Aires": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -55,
+      -40
+    ],
+    "lonRange": [
+      -70,
+      -55
+    ]
+  },
+  "America/Argentina/Catamarca": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -30,
+      -26
+    ],
+    "lonRange": [
+      -67,
+      -65
+    ]
+  },
+  "America/Argentina/Cordoba": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -35,
+      -31
+    ],
+    "lonRange": [
+      -64,
+      -62
+    ]
+  },
+  "America/Argentina/Jujuy": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -24,
+      -22
+    ],
+    "lonRange": [
+      -66,
+      -64
+    ]
+  },
+  "America/Argentina/La_Rioja": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -30,
+      -28
+    ],
+    "lonRange": [
+      -67,
+      -65
+    ]
+  },
+  "America/Argentina/Mendoza": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -34,
+      -32
+    ],
+    "lonRange": [
+      -69,
+      -67
+    ]
+  },
+  "America/Argentina/Rio_Gallegos": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -52,
+      -51
+    ],
+    "lonRange": [
+      -69,
+      -68
+    ]
+  },
+  "America/Argentina/Salta": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -25,
+      -24
+    ],
+    "lonRange": [
+      -65,
+      -64
+    ]
+  },
+  "America/Argentina/San_Juan": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -32,
+      -31
+    ],
+    "lonRange": [
+      -69,
+      -68
+    ]
+  },
+  "America/Argentina/San_Luis": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -34,
+      -33
+    ],
+    "lonRange": [
+      -67,
+      -66
+    ]
+  },
+  "America/Argentina/Tucuman": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -27,
+      -26
+    ],
+    "lonRange": [
+      -66,
+      -65
+    ]
+  },
+  "America/Argentina/Ushuaia": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -54,
+      -53
+    ],
+    "lonRange": [
+      -68,
+      -67
+    ]
+  },
+  "America/Aruba": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      12,
+      13
+    ],
+    "lonRange": [
+      -70,
+      -69
+    ]
+  },
+  "America/Asuncion": {
+    "offset": "-03",
+    "dst": true,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -20,
+      -25
+    ],
+    "lonRange": [
+      -57,
+      -55
+    ]
+  },
+  "America/Atikokan": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "EST",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      48,
+      49
+    ],
+    "lonRange": [
+      -92,
+      -90
+    ]
+  },
+  "America/Bahia": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -15,
+      -12
+    ],
+    "lonRange": [
+      -39,
+      -34
+    ]
+  },
+  "America/Bahia_Banderas": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      20,
+      21
+    ],
+    "lonRange": [
+      -106,
+      -105
+    ]
+  },
+  "America/Barbados": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      13,
+      14
+    ],
+    "lonRange": [
+      -60,
+      -58
+    ]
+  },
+  "America/Belem": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -2,
+      -1
+    ],
+    "lonRange": [
+      -49,
+      -48
+    ]
+  },
+  "America/Belize": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      16,
+      18
+    ],
+    "lonRange": [
+      -89,
+      -87
+    ]
+  },
+  "America/Blanc-Sablon": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      51,
+      52
+    ],
+    "lonRange": [
+      -58,
+      -57
+    ]
+  },
+  "America/Boa_Vista": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "-04",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      1,
+      3
+    ],
+    "lonRange": [
+      -61,
+      -60
+    ]
+  },
+  "America/Bogota": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "-05",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      1,
+      13
+    ],
+    "lonRange": [
+      -79,
+      -66
+    ]
+  },
+  "America/Boise": {
+    "offset": "-06",
+    "dst": true,
+    "abbreviation": "MDT",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      42,
+      44
+    ],
+    "lonRange": [
+      -116,
+      -115
+    ]
+  },
+  "America/Cambridge_Bay": {
+    "offset": "-06",
+    "dst": true,
+    "abbreviation": "MDT",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      65,
+      70
+    ],
+    "lonRange": [
+      -125,
+      -115
+    ]
+  },
+  "America/Campo_Grande": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "-04",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      -21,
+      -20
+    ],
+    "lonRange": [
+      -54,
+      -53
+    ]
+  },
+  "America/Cancun": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "EST",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      18,
+      21
+    ],
+    "lonRange": [
+      -88,
+      -85
+    ]
+  },
+  "America/Caracas": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "-04",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      0,
+      12
+    ],
+    "lonRange": [
+      -67,
+      -59
+    ]
+  },
+  "America/Cayenne": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      3,
+      6
+    ],
+    "lonRange": [
+      -53,
+      -50
+    ]
+  },
+  "America/Cayman": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "EST",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      19,
+      20
+    ],
+    "lonRange": [
+      -82,
+      -81
+    ]
+  },
+  "America/Chicago": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      35,
+      49
+    ],
+    "lonRange": [
+      -103,
+      -85
+    ]
+  },
+  "America/Chihuahua": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      26,
+      32
+    ],
+    "lonRange": [
+      -107,
+      -100
+    ]
+  },
+  "America/Ciudad_Juarez": {
+    "offset": "-06",
+    "dst": true,
+    "abbreviation": "MDT",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      31,
+      32
+    ],
+    "lonRange": [
+      -107,
+      -106
+    ]
+  },
+  "America/Costa_Rica": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      8,
+      11
+    ],
+    "lonRange": [
+      -85,
+      -82
+    ]
+  },
+  "America/Creston": {
+    "offset": "-07",
+    "dst": false,
+    "abbreviation": "MST",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      49,
+      50
+    ],
+    "lonRange": [
+      -116,
+      -114
+    ]
+  },
+  "America/Cuiaba": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "-04",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      -16,
+      -15
+    ],
+    "lonRange": [
+      -56,
+      -55
+    ]
+  },
+  "America/Curacao": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      12,
+      13
+    ],
+    "lonRange": [
+      -69,
+      -68
+    ]
+  },
+  "America/Danmarkshavn": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      76,
+      77
+    ],
+    "lonRange": [
+      -19,
+      -18
+    ]
+  },
+  "America/Dawson": {
+    "offset": "-07",
+    "dst": false,
+    "abbreviation": "MST",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      60,
+      65
+    ],
+    "lonRange": [
+      -140,
+      -135
+    ]
+  },
+  "America/Dawson_Creek": {
+    "offset": "-07",
+    "dst": false,
+    "abbreviation": "MST",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      55,
+      60
+    ],
+    "lonRange": [
+      -121,
+      -114
+    ]
+  },
+  "America/Denver": {
+    "offset": "-06",
+    "dst": true,
+    "abbreviation": "MDT",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      32,
+      42
+    ],
+    "lonRange": [
+      -109,
+      -100
+    ]
+  },
+  "America/Detroit": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      41,
+      45
+    ],
+    "lonRange": [
+      -90,
+      -80
+    ]
+  },
+  "America/Dominica": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      15,
+      16
+    ],
+    "lonRange": [
+      -62,
+      -61
+    ]
+  },
+  "America/Edmonton": {
+    "offset": "-06",
+    "dst": true,
+    "abbreviation": "MDT",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      49,
+      60
+    ],
+    "lonRange": [
+      -120,
+      -110
+    ]
+  },
+  "America/Eirunepe": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "-05",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      -9,
+      -5
+    ],
+    "lonRange": [
+      -69,
+      -63
+    ]
+  },
+  "America/El_Salvador": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      13,
+      15
+    ],
+    "lonRange": [
+      -90,
+      -87
+    ]
+  },
+  "America/Fort_Nelson": {
+    "offset": "-07",
+    "dst": false,
+    "abbreviation": "MST",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      58,
+      60
+    ],
+    "lonRange": [
+      -122,
+      -120
+    ]
+  },
+  "America/Fortaleza": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -5,
+      -3
+    ],
+    "lonRange": [
+      -40,
+      -36
+    ]
+  },
+  "America/Glace_Bay": {
+    "offset": "-03",
+    "dst": true,
+    "abbreviation": "ADT",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      46,
+      48
+    ],
+    "lonRange": [
+      -60,
+      -58
+    ]
+  },
+  "America/Godthab": {
+    "offset": "-01",
+    "dst": true,
+    "abbreviation": "-01",
+    "currentTime": "2024-10-11T12:36:05-01:00",
+    "latRange": [
+      63,
+      65
+    ],
+    "lonRange": [
+      -54,
+      -50
+    ]
+  },
+  "America/Goose_Bay": {
+    "offset": "-03",
+    "dst": true,
+    "abbreviation": "ADT",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      53,
+      54
+    ],
+    "lonRange": [
+      -61,
+      -60
+    ]
+  },
+  "America/Grand_Turk": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      21,
+      22
+    ],
+    "lonRange": [
+      -72,
+      -71
+    ]
+  },
+  "America/Grenada": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      12,
+      13
+    ],
+    "lonRange": [
+      -62,
+      -61
+    ]
+  },
+  "America/Guadeloupe": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      15,
+      17
+    ],
+    "lonRange": [
+      -62,
+      -61
+    ]
+  },
+  "America/Guatemala": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      13,
+      18
+    ],
+    "lonRange": [
+      -92,
+      -88
+    ]
+  },
+  "America/Guayaquil": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "-05",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      -3,
+      0
+    ],
+    "lonRange": [
+      -80,
+      -79
+    ]
+  },
+  "America/Guyana": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "-04",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      4,
+      9
+    ],
+    "lonRange": [
+      -58,
+      -55
+    ]
+  },
+  "America/Halifax": {
+    "offset": "-03",
+    "dst": true,
+    "abbreviation": "ADT",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      42,
+      48
+    ],
+    "lonRange": [
+      -66,
+      -60
+    ]
+  },
+  "America/Havana": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      20,
+      23
+    ],
+    "lonRange": [
+      -85,
+      -80
+    ]
+  },
+  "America/Hermosillo": {
+    "offset": "-07",
+    "dst": false,
+    "abbreviation": "MST",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      29,
+      30
+    ],
+    "lonRange": [
+      -112,
+      -111
+    ]
+  },
+  "America/Indiana/Indianapolis": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      38,
+      42
+    ],
+    "lonRange": [
+      -88,
+      -80
+    ]
+  },
+  "America/Indiana/Knox": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      41,
+      42
+    ],
+    "lonRange": [
+      -87.5,
+      -86.5
+    ]
+  },
+  "America/Indiana/Marengo": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      38,
+      39
+    ],
+    "lonRange": [
+      -87,
+      -86
+    ]
+  },
+  "America/Indiana/Petersburg": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      38,
+      39
+    ],
+    "lonRange": [
+      -88,
+      -87
+    ]
+  },
+  "America/Indiana/Tell_City": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      37,
+      38
+    ],
+    "lonRange": [
+      -87,
+      -86
+    ]
+  },
+  "America/Indiana/Vevay": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      38,
+      39
+    ],
+    "lonRange": [
+      -85.5,
+      -84.5
+    ]
+  },
+  "America/Indiana/Vincennes": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      38,
+      39
+    ],
+    "lonRange": [
+      -88,
+      -87
+    ]
+  },
+  "America/Indiana/Winamac": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      41,
+      42
+    ],
+    "lonRange": [
+      -87.5,
+      -86.5
+    ]
+  },
+  "America/Inuvik": {
+    "offset": "-06",
+    "dst": true,
+    "abbreviation": "MDT",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      68,
+      69
+    ],
+    "lonRange": [
+      -134,
+      -133
+    ]
+  },
+  "America/Iqaluit": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      60,
+      70
+    ],
+    "lonRange": [
+      -75,
+      -60
+    ]
+  },
+  "America/Jamaica": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "EST",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      16,
+      19
+    ],
+    "lonRange": [
+      -78,
+      -76
+    ]
+  },
+  "America/Juneau": {
+    "offset": "-08",
+    "dst": true,
+    "abbreviation": "AKDT",
+    "currentTime": "2024-10-11T05:36:05-08:00",
+    "latRange": [
+      55,
+      59
+    ],
+    "lonRange": [
+      -140,
+      -130
+    ]
+  },
+  "America/Kentucky/Louisville": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      36,
+      38
+    ],
+    "lonRange": [
+      -86,
+      -84
+    ]
+  },
+  "America/Kentucky/Monticello": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      36,
+      37
+    ],
+    "lonRange": [
+      -85,
+      -84
+    ]
+  },
+  "America/Kralendijk": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      12,
+      13
+    ],
+    "lonRange": [
+      -68,
+      -67
+    ]
+  },
+  "America/La_Paz": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "-04",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      -17,
+      -16
+    ],
+    "lonRange": [
+      -68,
+      -67
+    ]
+  },
+  "America/Lima": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "-05",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      -18,
+      -5
+    ],
+    "lonRange": [
+      -80,
+      -75
+    ]
+  },
+  "America/Los_Angeles": {
+    "offset": "-07",
+    "dst": true,
+    "abbreviation": "PDT",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      32,
+      50
+    ],
+    "lonRange": [
+      -119,
+      -114
+    ]
+  },
+  "America/Lower_Princes": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      18,
+      19
+    ],
+    "lonRange": [
+      -64,
+      -63
+    ]
+  },
+  "America/Maceio": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -10,
+      -9
+    ],
+    "lonRange": [
+      -36,
+      -35
+    ]
+  },
+  "America/Managua": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      11,
+      13
+    ],
+    "lonRange": [
+      -87,
+      -85
+    ]
+  },
+  "America/Manaus": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "-04",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      -3,
+      -2
+    ],
+    "lonRange": [
+      -60,
+      -59
+    ]
+  },
+  "America/Marigot": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      18,
+      19
+    ],
+    "lonRange": [
+      -64,
+      -63
+    ]
+  },
+  "America/Martinique": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      14,
+      15
+    ],
+    "lonRange": [
+      -61,
+      -60
+    ]
+  },
+  "America/Matamoros": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      25,
+      27
+    ],
+    "lonRange": [
+      -98,
+      -97
+    ]
+  },
+  "America/Mazatlan": {
+    "offset": "-07",
+    "dst": false,
+    "abbreviation": "MST",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      23,
+      25
+    ],
+    "lonRange": [
+      -107,
+      -105
+    ]
+  },
+  "America/Menominee": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      45,
+      46
+    ],
+    "lonRange": [
+      -88,
+      -87
+    ]
+  },
+  "America/Merida": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      20,
+      21
+    ],
+    "lonRange": [
+      -90,
+      -88
+    ]
+  },
+  "America/Metlakatla": {
+    "offset": "-08",
+    "dst": true,
+    "abbreviation": "AKDT",
+    "currentTime": "2024-10-11T05:36:05-08:00",
+    "latRange": [
+      55,
+      56
+    ],
+    "lonRange": [
+      -132,
+      -131
+    ]
+  },
+  "America/Mexico_City": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      19,
+      21
+    ],
+    "lonRange": [
+      -100,
+      -99
+    ]
+  },
+  "America/Miquelon": {
+    "offset": "-02",
+    "dst": true,
+    "abbreviation": "-02",
+    "currentTime": "2024-10-11T11:36:05-02:00",
+    "latRange": [
+      47,
+      48
+    ],
+    "lonRange": [
+      -56.5,
+      -55.5
+    ]
+  },
+  "America/Moncton": {
+    "offset": "-03",
+    "dst": true,
+    "abbreviation": "ADT",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      46,
+      47
+    ],
+    "lonRange": [
+      -65,
+      -64
+    ]
+  },
+  "America/Monterrey": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      25,
+      27
+    ],
+    "lonRange": [
+      -101,
+      -99
+    ]
+  },
+  "America/Montevideo": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -35,
+      -34
+    ],
+    "lonRange": [
+      -57,
+      -56
+    ]
+  },
+  "America/Montreal": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      45,
+      46
+    ],
+    "lonRange": [
+      -74,
+      -73
+    ]
+  },
+  "America/Montserrat": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      16.5,
+      17
+    ],
+    "lonRange": [
+      -62.5,
+      -62
+    ]
+  },
+  "America/Nassau": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      24,
+      26
+    ],
+    "lonRange": [
+      -78,
+      -76
+    ]
+  },
+  "America/New_York": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      40,
+      45
+    ],
+    "lonRange": [
+      -75,
+      -70
+    ]
+  },
+  "America/Nipigon": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      49,
+      50
+    ],
+    "lonRange": [
+      -89,
+      -88
+    ]
+  },
+  "America/Nome": {
+    "offset": "-08",
+    "dst": true,
+    "abbreviation": "AKDT",
+    "currentTime": "2024-10-11T05:36:05-08:00",
+    "latRange": [
+      64,
+      65
+    ],
+    "lonRange": [
+      -166,
+      -165
+    ]
+  },
+  "America/Noronha": {
+    "offset": "-02",
+    "dst": false,
+    "abbreviation": "-02",
+    "currentTime": "2024-10-11T11:36:05-02:00",
+    "latRange": [
+      -3.9,
+      -3.8
+    ],
+    "lonRange": [
+      -32,
+      -31
+    ]
+  },
+  "America/North_Dakota/Beulah": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      47,
+      48
+    ],
+    "lonRange": [
+      -102,
+      -101
+    ]
+  },
+  "America/North_Dakota/Center": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      47,
+      48
+    ],
+    "lonRange": [
+      -102,
+      -101
+    ]
+  },
+  "America/North_Dakota/New_Salem": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      47,
+      48
+    ],
+    "lonRange": [
+      -102,
+      -101
+    ]
+  },
+  "America/Ojinaga": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      28,
+      30
+    ],
+    "lonRange": [
+      -105,
+      -103
+    ]
+  },
+  "America/Panama": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "EST",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      7,
+      10
+    ],
+    "lonRange": [
+      -80,
+      -77
+    ]
+  },
+  "America/Pangnirtung": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      65,
+      66
+    ],
+    "lonRange": [
+      -67,
+      -66
+    ]
+  },
+  "America/Paramaribo": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      5,
+      6
+    ],
+    "lonRange": [
+      -56,
+      -55
+    ]
+  },
+  "America/Phoenix": {
+    "offset": "-07",
+    "dst": false,
+    "abbreviation": "MST",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      32,
+      35
+    ],
+    "lonRange": [
+      -114,
+      -112
+    ]
+  },
+  "America/Port_of_Spain": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      10,
+      11
+    ],
+    "lonRange": [
+      -62,
+      -61
+    ]
+  },
+  "America/Port-au-Prince": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      18,
+      19
+    ],
+    "lonRange": [
+      -73,
+      -72
+    ]
+  },
+  "America/Porto_Velho": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "-04",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      -9,
+      -8
+    ],
+    "lonRange": [
+      -64,
+      -63
+    ]
+  },
+  "America/Puerto_Rico": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      18,
+      19
+    ],
+    "lonRange": [
+      -67,
+      -66
+    ]
+  },
+  "America/Punta_Arenas": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -53,
+      -52
+    ],
+    "lonRange": [
+      -71,
+      -70
+    ]
+  },
+  "America/Rainy_River": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      48,
+      49
+    ],
+    "lonRange": [
+      -94,
+      -93
+    ]
+  },
+  "America/Rankin_Inlet": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      62,
+      63
+    ],
+    "lonRange": [
+      -93,
+      -92
+    ]
+  },
+  "America/Recife": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -8,
+      -7
+    ],
+    "lonRange": [
+      -35,
+      -34
+    ]
+  },
+  "America/Regina": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      50,
+      51
+    ],
+    "lonRange": [
+      -105,
+      -104
+    ]
+  },
+  "America/Resolute": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      74,
+      75
+    ],
+    "lonRange": [
+      -95,
+      -94
+    ]
+  },
+  "America/Rio_Branco": {
+    "offset": "-05",
+    "dst": false,
+    "abbreviation": "-05",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      -10,
+      -9
+    ],
+    "lonRange": [
+      -68,
+      -67
+    ]
+  },
+  "America/Santarem": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -3,
+      -2
+    ],
+    "lonRange": [
+      -55,
+      -54
+    ]
+  },
+  "America/Santiago": {
+    "offset": "-03",
+    "dst": true,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -34,
+      -33
+    ],
+    "lonRange": [
+      -71,
+      -70
+    ]
+  },
+  "America/Santo_Domingo": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      18,
+      19
+    ],
+    "lonRange": [
+      -70,
+      -69
+    ]
+  },
+  "America/Sao_Paulo": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -24,
+      -23
+    ],
+    "lonRange": [
+      -47,
+      -46
+    ]
+  },
+  "America/Scoresbysund": {
+    "offset": "-01",
+    "dst": false,
+    "abbreviation": "-01",
+    "currentTime": "2024-10-11T12:36:05-01:00",
+    "latRange": [
+      70,
+      71
+    ],
+    "lonRange": [
+      -22,
+      -21
+    ]
+  },
+  "America/Sitka": {
+    "offset": "-08",
+    "dst": true,
+    "abbreviation": "AKDT",
+    "currentTime": "2024-10-11T05:36:05-08:00",
+    "latRange": [
+      56,
+      57
+    ],
+    "lonRange": [
+      -135,
+      -134
+    ]
+  },
+  "America/St_Barthelemy": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      17,
+      18
+    ],
+    "lonRange": [
+      -63,
+      -62
+    ]
+  },
+  "America/St_Johns": {
+    "offset": "-02",
+    "dst": true,
+    "abbreviation": "NDT",
+    "currentTime": "2024-10-11T11:06:05-02:30",
+    "latRange": [
+      47,
+      48
+    ],
+    "lonRange": [
+      -53,
+      -52
+    ]
+  },
+  "America/St_Kitts": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      17,
+      18
+    ],
+    "lonRange": [
+      -63,
+      -62
+    ]
+  },
+  "America/St_Lucia": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      13,
+      14
+    ],
+    "lonRange": [
+      -61,
+      -60
+    ]
+  },
+  "America/St_Thomas": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      18,
+      19
+    ],
+    "lonRange": [
+      -65,
+      -64
+    ]
+  },
+  "America/St_Vincent": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      13,
+      14
+    ],
+    "lonRange": [
+      -62,
+      -61
+    ]
+  },
+  "America/Swift_Current": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      50,
+      51
+    ],
+    "lonRange": [
+      -108,
+      -107
+    ]
+  },
+  "America/Tegucigalpa": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "CST",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      14,
+      15
+    ],
+    "lonRange": [
+      -88,
+      -87
+    ]
+  },
+  "America/Thule": {
+    "offset": "-03",
+    "dst": true,
+    "abbreviation": "ADT",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      76,
+      77
+    ],
+    "lonRange": [
+      -69,
+      -68
+    ]
+  },
+  "America/Thunder_Bay": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      48,
+      49
+    ],
+    "lonRange": [
+      -89,
+      -88
+    ]
+  },
+  "America/Tijuana": {
+    "offset": "-07",
+    "dst": true,
+    "abbreviation": "PDT",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      32,
+      33
+    ],
+    "lonRange": [
+      -117,
+      -116
+    ]
+  },
+  "America/Toronto": {
+    "offset": "-04",
+    "dst": true,
+    "abbreviation": "EDT",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      43,
+      44
+    ],
+    "lonRange": [
+      -79,
+      -78
+    ]
+  },
+  "America/Tortola": {
+    "offset": "-04",
+    "dst": false,
+    "abbreviation": "AST",
+    "currentTime": "2024-10-11T09:36:05-04:00",
+    "latRange": [
+      18,
+      19
+    ],
+    "lonRange": [
+      -65,
+      -64
+    ]
+  },
+  "America/Vancouver": {
+    "offset": "-07",
+    "dst": true,
+    "abbreviation": "PDT",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      49,
+      50
+    ],
+    "lonRange": [
+      -123,
+      -122
+    ]
+  },
+  "America/Whitehorse": {
+    "offset": "-07",
+    "dst": false,
+    "abbreviation": "MST",
+    "currentTime": "2024-10-11T06:36:05-07:00",
+    "latRange": [
+      60,
+      61
+    ],
+    "lonRange": [
+      -136,
+      -135
+    ]
+  },
+  "America/Winnipeg": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "CDT",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      49,
+      50
+    ],
+    "lonRange": [
+      -97,
+      -96
+    ]
+  },
+  "America/Yakutat": {
+    "offset": "-08",
+    "dst": true,
+    "abbreviation": "AKDT",
+    "currentTime": "2024-10-11T05:36:05-08:00",
+    "latRange": [
+      59,
+      60
+    ],
+    "lonRange": [
+      -140,
+      -139
+    ]
+  },
+  "America/Yellowknife": {
+    "offset": "-06",
+    "dst": true,
+    "abbreviation": "MDT",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      62,
+      63
+    ],
+    "lonRange": [
+      -115,
+      -114
+    ]
+  },
+  "Antarctica/Casey": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+08",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      -66,
+      -50
+    ],
+    "lonRange": [
+      110,
+      120
+    ]
+  },
+  "Antarctica/Davis": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      -70,
+      -60
+    ],
+    "lonRange": [
+      77,
+      85
+    ]
+  },
+  "Antarctica/DumontDUrville": {
+    "offset": "+10",
+    "dst": false,
+    "abbreviation": "+10",
+    "currentTime": "2024-10-11T23:36:05+10:00",
+    "latRange": [
+      -70,
+      -60
+    ],
+    "lonRange": [
+      140,
+      150
+    ]
+  },
+  "Antarctica/Macquarie": {
+    "offset": "+11",
+    "dst": true,
+    "abbreviation": "AEDT",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -55,
+      -54
+    ],
+    "lonRange": [
+      158,
+      159
+    ]
+  },
+  "Antarctica/Mawson": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      -68,
+      -66
+    ],
+    "lonRange": [
+      62,
+      64
+    ]
+  },
+  "Antarctica/McMurdo": {
+    "offset": "+13",
+    "dst": true,
+    "abbreviation": "NZDT",
+    "currentTime": "2024-10-12T02:36:05+13:00",
+    "latRange": [
+      -90,
+      -60
+    ],
+    "lonRange": [
+      150,
+      180
+    ]
+  },
+  "Antarctica/Palmer": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -80,
+      -60
+    ],
+    "lonRange": [
+      -64,
+      -60
+    ]
+  },
+  "Antarctica/Rothera": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -68,
+      -66
+    ],
+    "lonRange": [
+      -68,
+      -66
+    ]
+  },
+  "Antarctica/Syowa": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      -69,
+      -60
+    ],
+    "lonRange": [
+      39,
+      43
+    ]
+  },
+  "Antarctica/Troll": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "+02",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      -80,
+      -60
+    ],
+    "lonRange": [
+      2,
+      10
+    ]
+  },
+  "Antarctica/Vostok": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      -78,
+      -60
+    ],
+    "lonRange": [
+      106,
+      150
+    ]
+  },
+  "Arctic/Longyearbyen": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      74,
+      82
+    ],
+    "lonRange": [
+      10,
+      30
+    ]
+  },
+  "Arctic/Thule": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "UTC",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      76,
+      83
+    ],
+    "lonRange": [
+      -76,
+      -70
+    ]
+  },
+  "Arctic/Jan_Mayen": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "UTC",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      70,
+      80
+    ],
+    "lonRange": [
+      -10,
+      5
+    ]
+  },
+  "Atlantic/Azores": {
+    "offset": "+00",
+    "dst": true,
+    "abbreviation": "+00",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      36,
+      40
+    ],
+    "lonRange": [
+      -30,
+      -25
+    ]
+  },
+  "Atlantic/Bermuda": {
+    "offset": "-03",
+    "dst": true,
+    "abbreviation": "ADT",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      31,
+      34
+    ],
+    "lonRange": [
+      -65,
+      -62
+    ]
+  },
+  "Atlantic/Canary": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "WEST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      27,
+      30
+    ],
+    "lonRange": [
+      -18,
+      -14
+    ]
+  },
+  "Atlantic/Cape_Verde": {
+    "offset": "-01",
+    "dst": false,
+    "abbreviation": "-01",
+    "currentTime": "2024-10-11T12:36:05-01:00",
+    "latRange": [
+      14,
+      17
+    ],
+    "lonRange": [
+      -25,
+      -22
+    ]
+  },
+  "Atlantic/Faeroe": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "WEST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      61,
+      63
+    ],
+    "lonRange": [
+      -7,
+      -5
+    ]
+  },
+  "Atlantic/Faroe": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "WEST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      61,
+      63
+    ],
+    "lonRange": [
+      -7,
+      -5
+    ]
+  },
+  "Atlantic/Jan_Mayen": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      70,
+      80
+    ],
+    "lonRange": [
+      -10,
+      5
+    ]
+  },
+  "Atlantic/Madeira": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "WEST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      32,
+      34
+    ],
+    "lonRange": [
+      -17,
+      -14
+    ]
+  },
+  "Atlantic/Reykjavik": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      63,
+      66
+    ],
+    "lonRange": [
+      -25,
+      -13
+    ]
+  },
+  "Atlantic/South_Georgia": {
+    "offset": "-02",
+    "dst": false,
+    "abbreviation": "-02",
+    "currentTime": "2024-10-11T11:36:05-02:00",
+    "latRange": [
+      -54,
+      -54
+    ],
+    "lonRange": [
+      -37,
+      -35
+    ]
+  },
+  "Atlantic/St_Helena": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "GMT",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      -15,
+      -14
+    ],
+    "lonRange": [
+      -6,
+      -5
+    ]
+  },
+  "Atlantic/Stanley": {
+    "offset": "-03",
+    "dst": false,
+    "abbreviation": "-03",
+    "currentTime": "2024-10-11T10:36:05-03:00",
+    "latRange": [
+      -50,
+      -48
+    ],
+    "lonRange": [
+      -58,
+      -56
+    ]
+  },
+  "Australia/Adelaide": {
+    "offset": "+10",
+    "dst": true,
+    "abbreviation": "ACDT",
+    "currentTime": "2024-10-12T00:06:05+10:30",
+    "latRange": [
+      -44,
+      -35
+    ],
+    "lonRange": [
+      132,
+      140
+    ]
+  },
+  "Australia/Brisbane": {
+    "offset": "+10",
+    "dst": false,
+    "abbreviation": "AEST",
+    "currentTime": "2024-10-11T23:36:05+10:00",
+    "latRange": [
+      -30,
+      -25
+    ],
+    "lonRange": [
+      140,
+      153
+    ]
+  },
+  "Australia/Broken_Hill": {
+    "offset": "+10",
+    "dst": true,
+    "abbreviation": "ACDT",
+    "currentTime": "2024-10-12T00:06:05+10:30",
+    "latRange": [
+      -32,
+      -29
+    ],
+    "lonRange": [
+      140,
+      144
+    ]
+  },
+  "Australia/Currie": {
+    "offset": "+11",
+    "dst": true,
+    "abbreviation": "AEDT",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -40,
+      -39
+    ],
+    "lonRange": [
+      144,
+      148
+    ]
+  },
+  "Australia/Darwin": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "ACST",
+    "currentTime": "2024-10-11T23:06:05+09:30",
+    "latRange": [
+      -16,
+      -12
+    ],
+    "lonRange": [
+      130,
+      138
+    ]
+  },
+  "Australia/Eucla": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "+0845",
+    "currentTime": "2024-10-11T22:21:05+08:45",
+    "latRange": [
+      -34,
+      -30
+    ],
+    "lonRange": [
+      120,
+      128
+    ]
+  },
+  "Australia/Hobart": {
+    "offset": "+11",
+    "dst": true,
+    "abbreviation": "AEDT",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -44,
+      -40
+    ],
+    "lonRange": [
+      146,
+      150
+    ]
+  },
+  "Australia/Lindeman": {
+    "offset": "+10",
+    "dst": false,
+    "abbreviation": "AEST",
+    "currentTime": "2024-10-11T23:36:05+10:00",
+    "latRange": [
+      -23,
+      -21
+    ],
+    "lonRange": [
+      149,
+      151
+    ]
+  },
+  "Australia/Lord_Howe": {
+    "offset": "+11",
+    "dst": true,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -32,
+      -30
+    ],
+    "lonRange": [
+      152,
+      154
+    ]
+  },
+  "Australia/Melbourne": {
+    "offset": "+11",
+    "dst": true,
+    "abbreviation": "AEDT",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -38,
+      -37
+    ],
+    "lonRange": [
+      144,
+      145
+    ]
+  },
+  "Australia/Perth": {
+    "offset": "+08",
+    "dst": false,
+    "abbreviation": "AWST",
+    "currentTime": "2024-10-11T21:36:05+08:00",
+    "latRange": [
+      -35,
+      -25
+    ],
+    "lonRange": [
+      115,
+      130
+    ]
+  },
+  "Australia/Sydney": {
+    "offset": "+11",
+    "dst": true,
+    "abbreviation": "AEDT",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -37,
+      -33
+    ],
+    "lonRange": [
+      150,
+      154
+    ]
+  },
+  "Europe/Amsterdam": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      50,
+      53
+    ],
+    "lonRange": [
+      3,
+      7
+    ]
+  },
+  "Europe/Andorra": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      42,
+      43
+    ],
+    "lonRange": [
+      1,
+      2.5
+    ]
+  },
+  "Europe/Athens": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      35,
+      42
+    ],
+    "lonRange": [
+      19,
+      28
+    ]
+  },
+  "Europe/Belfast": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "BST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      54,
+      56
+    ],
+    "lonRange": [
+      -6,
+      -4
+    ]
+  },
+  "Europe/Berlin": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      47,
+      55
+    ],
+    "lonRange": [
+      10,
+      15
+    ]
+  },
+  "Europe/Bratislava": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      47,
+      49
+    ],
+    "lonRange": [
+      16,
+      20
+    ]
+  },
+  "Europe/Brussels": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      49,
+      51
+    ],
+    "lonRange": [
+      2,
+      6
+    ]
+  },
+  "Europe/Bucharest": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      43,
+      48
+    ],
+    "lonRange": [
+      24,
+      30
+    ]
+  },
+  "Europe/Budapest": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      45,
+      48
+    ],
+    "lonRange": [
+      16,
+      22
+    ]
+  },
+  "Europe/Copenhagen": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      54,
+      57
+    ],
+    "lonRange": [
+      8,
+      13
+    ]
+  },
+  "Europe/Dublin": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "IST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      51,
+      55
+    ],
+    "lonRange": [
+      -10,
+      -5
+    ]
+  },
+  "Europe/Gibraltar": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      36,
+      37
+    ],
+    "lonRange": [
+      -6.5,
+      -5.5
+    ]
+  },
+  "Europe/Helsinki": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      60,
+      70
+    ],
+    "lonRange": [
+      20,
+      30
+    ]
+  },
+  "Europe/Isle_of_Man": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "BST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      54,
+      57
+    ],
+    "lonRange": [
+      -5.5,
+      -4.5
+    ]
+  },
+  "Europe/Istanbul": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      40,
+      42
+    ],
+    "lonRange": [
+      26,
+      30
+    ]
+  },
+  "Europe/Jersey": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "BST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      49,
+      50
+    ],
+    "lonRange": [
+      -3,
+      -2
+    ]
+  },
+  "Europe/Kaliningrad": {
+    "offset": "+02",
+    "dst": false,
+    "abbreviation": "EET",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      54,
+      56
+    ],
+    "lonRange": [
+      19,
+      22
+    ]
+  },
+  "Europe/Kiev": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      44,
+      50
+    ],
+    "lonRange": [
+      29,
+      32
+    ]
+  },
+  "Europe/Kirov": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "MSK",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      58,
+      59
+    ],
+    "lonRange": [
+      48,
+      50
+    ]
+  },
+  "Europe/Lisbon": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "WEST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      37,
+      40
+    ],
+    "lonRange": [
+      -9.5,
+      -6
+    ]
+  },
+  "Europe/Ljubljana": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      45,
+      47
+    ],
+    "lonRange": [
+      13,
+      16
+    ]
+  },
+  "Europe/London": {
+    "offset": "+01",
+    "dst": true,
+    "abbreviation": "BST",
+    "currentTime": "2024-10-11T14:36:05+01:00",
+    "latRange": [
+      50,
+      58
+    ],
+    "lonRange": [
+      -6,
+      1
+    ]
+  },
+  "Europe/Luxembourg": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      49,
+      50
+    ],
+    "lonRange": [
+      5,
+      6
+    ]
+  },
+  "Europe/Madrid": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      36,
+      43
+    ],
+    "lonRange": [
+      -10,
+      -3
+    ]
+  },
+  "Europe/Malta": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      35,
+      36
+    ],
+    "lonRange": [
+      14,
+      15.5
+    ]
+  },
+  "Europe/Mariehamn": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      60,
+      61
+    ],
+    "lonRange": [
+      19,
+      20
+    ]
+  },
+  "Europe/Minsk": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "+03",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      53,
+      55
+    ],
+    "lonRange": [
+      27,
+      29
+    ]
+  },
+  "Europe/Monaco": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      43.5,
+      44
+    ],
+    "lonRange": [
+      7,
+      8
+    ]
+  },
+  "Europe/Moscow": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "MSK",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      55,
+      59
+    ],
+    "lonRange": [
+      30,
+      40
+    ]
+  },
+  "Europe/Oslo": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      59,
+      62
+    ],
+    "lonRange": [
+      5,
+      11
+    ]
+  },
+  "Europe/Paris": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      41,
+      51
+    ],
+    "lonRange": [
+      -5,
+      10
+    ]
+  },
+  "Europe/Prague": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      49,
+      51
+    ],
+    "lonRange": [
+      12,
+      18
+    ]
+  },
+  "Europe/Riga": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      55,
+      58
+    ],
+    "lonRange": [
+      20,
+      28
+    ]
+  },
+  "Europe/Rome": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      41,
+      45
+    ],
+    "lonRange": [
+      6,
+      15
+    ]
+  },
+  "Europe/Samara": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      50,
+      55
+    ],
+    "lonRange": [
+      48,
+      54
+    ]
+  },
+  "Europe/San_Marino": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      43,
+      44
+    ],
+    "lonRange": [
+      12,
+      13
+    ]
+  },
+  "Europe/Saratov": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      51,
+      52
+    ],
+    "lonRange": [
+      45,
+      47
+    ]
+  },
+  "Europe/Simferopol": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "MSK",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      44,
+      45
+    ],
+    "lonRange": [
+      33,
+      35
+    ]
+  },
+  "Europe/Sofia": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      41,
+      44
+    ],
+    "lonRange": [
+      22,
+      28
+    ]
+  },
+  "Europe/Stockholm": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      59,
+      60
+    ],
+    "lonRange": [
+      17,
+      18
+    ]
+  },
+  "Europe/Tallinn": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      57,
+      59
+    ],
+    "lonRange": [
+      21,
+      28
+    ]
+  },
+  "Europe/Tirane": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      40,
+      42
+    ],
+    "lonRange": [
+      19,
+      21
+    ]
+  },
+  "Europe/Ulyanovsk": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      54,
+      55
+    ],
+    "lonRange": [
+      48,
+      50
+    ]
+  },
+  "Europe/Uzhgorod": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      48,
+      49
+    ],
+    "lonRange": [
+      21,
+      23
+    ]
+  },
+  "Europe/Vaduz": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      47,
+      48
+    ],
+    "lonRange": [
+      9.5,
+      10.5
+    ]
+  },
+  "Europe/Vatican": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      41,
+      42
+    ],
+    "lonRange": [
+      12,
+      13
+    ]
+  },
+  "Europe/Vienna": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      46,
+      49
+    ],
+    "lonRange": [
+      15,
+      17
+    ]
+  },
+  "Europe/Vilnius": {
+    "offset": "+03",
+    "dst": true,
+    "abbreviation": "EEST",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      54,
+      57
+    ],
+    "lonRange": [
+      20,
+      26
+    ]
+  },
+  "Europe/Volgograd": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "MSK",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      48,
+      49
+    ],
+    "lonRange": [
+      43,
+      45
+    ]
+  },
+  "Europe/Warsaw": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      51,
+      53
+    ],
+    "lonRange": [
+      20,
+      22
+    ]
+  },
+  "Europe/Zagreb": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      45,
+      47
+    ],
+    "lonRange": [
+      14,
+      17
+    ]
+  },
+  "Europe/Zurich": {
+    "offset": "+02",
+    "dst": true,
+    "abbreviation": "CEST",
+    "currentTime": "2024-10-11T15:36:05+02:00",
+    "latRange": [
+      47,
+      48
+    ],
+    "lonRange": [
+      8,
+      9
+    ]
+  },
+  "Indian/Antananarivo": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      -26,
+      -13
+    ],
+    "lonRange": [
+      43,
+      50
+    ]
+  },
+  "Indian/Chagos": {
+    "offset": "+06",
+    "dst": false,
+    "abbreviation": "+06",
+    "currentTime": "2024-10-11T19:36:05+06:00",
+    "latRange": [
+      -7,
+      -5
+    ],
+    "lonRange": [
+      70,
+      73
+    ]
+  },
+  "Indian/Christmas": {
+    "offset": "+07",
+    "dst": false,
+    "abbreviation": "+07",
+    "currentTime": "2024-10-11T20:36:05+07:00",
+    "latRange": [
+      -11,
+      -10
+    ],
+    "lonRange": [
+      150,
+      155
+    ]
+  },
+  "Indian/Cocos": {
+    "offset": "+06",
+    "dst": false,
+    "abbreviation": "+0630",
+    "currentTime": "2024-10-11T20:06:05+06:30",
+    "latRange": [
+      -13,
+      -11
+    ],
+    "lonRange": [
+      96,
+      100
+    ]
+  },
+  "Indian/Comoro": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      -12,
+      -11
+    ],
+    "lonRange": [
+      43,
+      45
+    ]
+  },
+  "Indian/Delhi": {
+    "offset": "+00",
+    "dst": false,
+    "abbreviation": "UTC",
+    "currentTime": "2024-10-11T13:36:05Z",
+    "latRange": [
+      28,
+      30
+    ],
+    "lonRange": [
+      76,
+      80
+    ]
+  },
+  "Indian/Kerguelen": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      -49,
+      -48
+    ],
+    "lonRange": [
+      69,
+      71
+    ]
+  },
+  "Indian/Mahe": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      -5,
+      -4
+    ],
+    "lonRange": [
+      55,
+      56
+    ]
+  },
+  "Indian/Maldives": {
+    "offset": "+05",
+    "dst": false,
+    "abbreviation": "+05",
+    "currentTime": "2024-10-11T18:36:05+05:00",
+    "latRange": [
+      -7,
+      -3
+    ],
+    "lonRange": [
+      72,
+      74
+    ]
+  },
+  "Indian/Mauritius": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      -20,
+      -18
+    ],
+    "lonRange": [
+      57,
+      64
+    ]
+  },
+  "Indian/Mayotte": {
+    "offset": "+03",
+    "dst": false,
+    "abbreviation": "EAT",
+    "currentTime": "2024-10-11T16:36:05+03:00",
+    "latRange": [
+      -13,
+      -12
+    ],
+    "lonRange": [
+      45,
+      46
+    ]
+  },
+  "Indian/Reunion": {
+    "offset": "+04",
+    "dst": false,
+    "abbreviation": "+04",
+    "currentTime": "2024-10-11T17:36:05+04:00",
+    "latRange": [
+      -22,
+      -21
+    ],
+    "lonRange": [
+      55,
+      56
+    ]
+  },
+  "Pacific/Apia": {
+    "offset": "+13",
+    "dst": false,
+    "abbreviation": "+13",
+    "currentTime": "2024-10-12T02:36:05+13:00",
+    "latRange": [
+      -14,
+      -13
+    ],
+    "lonRange": [
+      -172,
+      -169
+    ]
+  },
+  "Pacific/Auckland": {
+    "offset": "+13",
+    "dst": true,
+    "abbreviation": "NZDT",
+    "currentTime": "2024-10-12T02:36:05+13:00",
+    "latRange": [
+      -37,
+      -34
+    ],
+    "lonRange": [
+      174,
+      178
+    ]
+  },
+  "Pacific/Chatham": {
+    "offset": "+13",
+    "dst": true,
+    "abbreviation": "+1345",
+    "currentTime": "2024-10-12T03:21:05+13:45",
+    "latRange": [
+      -44,
+      -43
+    ],
+    "lonRange": [
+      176,
+      179
+    ]
+  },
+  "Pacific/Chuuk": {
+    "offset": "+10",
+    "dst": false,
+    "abbreviation": "+10",
+    "currentTime": "2024-10-11T23:36:05+10:00",
+    "latRange": [
+      6,
+      10
+    ],
+    "lonRange": [
+      150,
+      153
+    ]
+  },
+  "Pacific/Easter": {
+    "offset": "-05",
+    "dst": true,
+    "abbreviation": "-05",
+    "currentTime": "2024-10-11T08:36:05-05:00",
+    "latRange": [
+      -28,
+      -26
+    ],
+    "lonRange": [
+      -110,
+      -108
+    ]
+  },
+  "Pacific/Efate": {
+    "offset": "+11",
+    "dst": false,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -17,
+      -15
+    ],
+    "lonRange": [
+      168,
+      171
+    ]
+  },
+  "Pacific/Enderbury": {
+    "offset": "+13",
+    "dst": false,
+    "abbreviation": "+13",
+    "currentTime": "2024-10-12T02:36:05+13:00",
+    "latRange": [
+      -4,
+      -3
+    ],
+    "lonRange": [
+      -180,
+      -178
+    ]
+  },
+  "Pacific/Fakaofo": {
+    "offset": "+13",
+    "dst": false,
+    "abbreviation": "+13",
+    "currentTime": "2024-10-12T02:36:05+13:00",
+    "latRange": [
+      -9,
+      -8
+    ],
+    "lonRange": [
+      -171,
+      -169
+    ]
+  },
+  "Pacific/Fiji": {
+    "offset": "+12",
+    "dst": false,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      -20,
+      -15
+    ],
+    "lonRange": [
+      175,
+      178
+    ]
+  },
+  "Pacific/Funafuti": {
+    "offset": "+12",
+    "dst": false,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      -8,
+      -5
+    ],
+    "lonRange": [
+      179,
+      180
+    ]
+  },
+  "Pacific/Galapagos": {
+    "offset": "-06",
+    "dst": false,
+    "abbreviation": "-06",
+    "currentTime": "2024-10-11T07:36:05-06:00",
+    "latRange": [
+      -1,
+      -0.5
+    ],
+    "lonRange": [
+      -92.5,
+      -89.5
+    ]
+  },
+  "Pacific/Gambier": {
+    "offset": "-09",
+    "dst": false,
+    "abbreviation": "-09",
+    "currentTime": "2024-10-11T04:36:05-09:00",
+    "latRange": [
+      -24,
+      -23
+    ],
+    "lonRange": [
+      -135,
+      -134
+    ]
+  },
+  "Pacific/Guadalcanal": {
+    "offset": "+11",
+    "dst": false,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -10,
+      -8
+    ],
+    "lonRange": [
+      155,
+      162
+    ]
+  },
+  "Pacific/Guam": {
+    "offset": "+10",
+    "dst": false,
+    "abbreviation": "ChST",
+    "currentTime": "2024-10-11T23:36:05+10:00",
+    "latRange": [
+      12,
+      14
+    ],
+    "lonRange": [
+      144,
+      146
+    ]
+  },
+  "Pacific/Kiritimati": {
+    "offset": "+14",
+    "dst": false,
+    "abbreviation": "+14",
+    "currentTime": "2024-10-12T03:36:05+14:00",
+    "latRange": [
+      1,
+      3
+    ],
+    "lonRange": [
+      -157,
+      -155
+    ]
+  },
+  "Pacific/Kosrae": {
+    "offset": "+11",
+    "dst": false,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      5,
+      7
+    ],
+    "lonRange": [
+      162,
+      165
+    ]
+  },
+  "Pacific/Marquesas": {
+    "offset": "-09",
+    "dst": false,
+    "abbreviation": "-0930",
+    "currentTime": "2024-10-11T04:06:05-09:30",
+    "latRange": [
+      -10.5,
+      -8.5
+    ],
+    "lonRange": [
+      -141,
+      -138
+    ]
+  },
+  "Pacific/Nauru": {
+    "offset": "+12",
+    "dst": false,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      -1,
+      0
+    ],
+    "lonRange": [
+      166,
+      167
+    ]
+  },
+  "Pacific/Niue": {
+    "offset": "-11",
+    "dst": false,
+    "abbreviation": "-11",
+    "currentTime": "2024-10-11T02:36:05-11:00",
+    "latRange": [
+      -19,
+      -18
+    ],
+    "lonRange": [
+      -169,
+      -167
+    ]
+  },
+  "Pacific/Norfolk": {
+    "offset": "+12",
+    "dst": true,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      -36,
+      -34
+    ],
+    "lonRange": [
+      168,
+      169
+    ]
+  },
+  "Pacific/Noumea": {
+    "offset": "+11",
+    "dst": false,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      -23,
+      -21
+    ],
+    "lonRange": [
+      165,
+      167
+    ]
+  },
+  "Pacific/Pago_Pago": {
+    "offset": "-11",
+    "dst": false,
+    "abbreviation": "SST",
+    "currentTime": "2024-10-11T02:36:05-11:00",
+    "latRange": [
+      -15,
+      -13
+    ],
+    "lonRange": [
+      -170,
+      -168
+    ]
+  },
+  "Pacific/Palau": {
+    "offset": "+09",
+    "dst": false,
+    "abbreviation": "+09",
+    "currentTime": "2024-10-11T22:36:05+09:00",
+    "latRange": [
+      6,
+      8
+    ],
+    "lonRange": [
+      134,
+      136
+    ]
+  },
+  "Pacific/Pitcairn": {
+    "offset": "-08",
+    "dst": false,
+    "abbreviation": "-08",
+    "currentTime": "2024-10-11T05:36:05-08:00",
+    "latRange": [
+      -25,
+      -24
+    ],
+    "lonRange": [
+      -130,
+      -128
+    ]
+  },
+  "Pacific/Pohnpei": {
+    "offset": "+11",
+    "dst": false,
+    "abbreviation": "+11",
+    "currentTime": "2024-10-12T00:36:05+11:00",
+    "latRange": [
+      5,
+      7
+    ],
+    "lonRange": [
+      158,
+      160
+    ]
+  },
+  "Pacific/Port_Moresby": {
+    "offset": "+10",
+    "dst": false,
+    "abbreviation": "+10",
+    "currentTime": "2024-10-11T23:36:05+10:00",
+    "latRange": [
+      -10,
+      -5
+    ],
+    "lonRange": [
+      140,
+      150
+    ]
+  },
+  "Pacific/Rarotonga": {
+    "offset": "-10",
+    "dst": false,
+    "abbreviation": "-10",
+    "currentTime": "2024-10-11T03:36:05-10:00",
+    "latRange": [
+      -21,
+      -19
+    ],
+    "lonRange": [
+      -160,
+      -158
+    ]
+  },
+  "Pacific/Samoa": {
+    "offset": "-11",
+    "dst": false,
+    "abbreviation": "SST",
+    "currentTime": "2024-10-11T02:36:05-11:00",
+    "latRange": [
+      -15,
+      -13
+    ],
+    "lonRange": [
+      -171,
+      -169
+    ]
+  },
+  "Pacific/Tahiti": {
+    "offset": "-10",
+    "dst": false,
+    "abbreviation": "-10",
+    "currentTime": "2024-10-11T03:36:05-10:00",
+    "latRange": [
+      -17,
+      -15
+    ],
+    "lonRange": [
+      -150,
+      -148
+    ]
+  },
+  "Pacific/Tarawa": {
+    "offset": "+12",
+    "dst": false,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      0,
+      2
+    ],
+    "lonRange": [
+      173,
+      175
+    ]
+  },
+  "Pacific/Tongatapu": {
+    "offset": "+13",
+    "dst": false,
+    "abbreviation": "+13",
+    "currentTime": "2024-10-12T02:36:05+13:00",
+    "latRange": [
+      -22,
+      -20
+    ],
+    "lonRange": [
+      -175,
+      -172
+    ]
+  },
+  "Pacific/Wake": {
+    "offset": "+12",
+    "dst": false,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      19,
+      20
+    ],
+    "lonRange": [
+      166,
+      167
+    ]
+  },
+  "Pacific/Wallis": {
+    "offset": "+12",
+    "dst": false,
+    "abbreviation": "+12",
+    "currentTime": "2024-10-12T01:36:05+12:00",
+    "latRange": [
+      -13,
+      -12
+    ],
+    "lonRange": [
+      -176,
+      -175
+    ]
+  }
+}
