@@ -2,7 +2,7 @@ name: Update Timezones
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This runs the job every day at midnight UTC
+    - cron: '* * * * *'  # This runs the job every minute
 
 jobs:
   update:
