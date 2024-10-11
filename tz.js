@@ -1,8 +1,9 @@
+// generateTimezones.js
 const fs = require('fs');
 const moment = require('moment-timezone');
 
 // Predefined mapping of time zones with latitude and longitude ranges
-    const timeZoneNames = [
+const timeZoneNames = [
 // Africa
     { name: "Africa/Abidjan", latRange: [4.0, 11.0], lonRange: [-8.6, -2.5] },
     { name: "Africa/Algiers", latRange: [18.0, 37.5], lonRange: [8.0, 12.0] },
@@ -469,19 +470,5 @@ function generateTimeZoneData() {
     console.log('Timezone data generated and saved to timezones.json');
 }
 
-// Function to check if we need to update the data
-function scheduleDailyUpdate() {
-    const now = new Date();
-    const utcMidnight = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() + 1, 0, 0, 0));
-    const timeUntilUpdate = utcMidnight - now;
-
-    // Schedule the next update
-    setTimeout(() => {
-        generateTimeZoneData();
-        scheduleDailyUpdate(); // Reschedule the next update
-    }, timeUntilUpdate);
-}
-
-// Start the process
-generateTimeZoneData(); // Initial data generation
-scheduleDailyUpdate(); // Start the daily update schedule
+// Start the generation process
+generateTimeZoneData();
