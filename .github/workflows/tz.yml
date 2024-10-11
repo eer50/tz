@@ -2,31 +2,22 @@ name: Update Timezones
 
 on:
   schedule:
-    - cron: '* * * * *'  # This runs the job every minute
+    - cron: '* * * * *'  # Runs every minute
 
 jobs:
-  update:
+  update-timezones:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v2
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'  # Specify the Node.js version
+          node-version: '14'  # Specify the Node.js version you need
 
       - name: Install dependencies
         run: npm install moment-timezone
 
-      - name: Generate timezone data
-        run: node tz.js  # Call the tz.js file
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.name "github-actions"
-          git config --local user.email "github-actions@github.com"
-          git add timezones.json
-          git commit -m "Update timezone data" || echo "No changes to commit"
-          git push
+      - name: Run timezone generator
+        run: node tz.js
