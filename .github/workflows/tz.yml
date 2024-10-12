@@ -22,18 +22,17 @@ jobs:
         run: npm install moment-timezone
 
       - name: Generate timezone data
-        run: node tz.js  # Call the tz.js file
+        run: |
+          echo "Running tz.js"
+          node tz.js  # Call the tz.js file
 
       - name: Commit and push changes
         run: |
-                - name: Commit and push changes
-        run: |
+          echo "Configuring Git"
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          if [[ `git status --porcelain` ]]; then
-            git add timezones.json
-            git commit -m "Update timezone data"
-            git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
-          else
-            echo "No changes to commit"
-          fi
+          echo "Adding changes"
+          git add timezones.json
+          git commit -m "Update timezone data" || echo "No changes to commit"
+          echo "Pushing changes"
+          git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
