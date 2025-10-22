@@ -3,7 +3,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       4,
       11
@@ -17,7 +17,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "CET",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       18,
       37.5
@@ -31,7 +31,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       9,
       9
@@ -45,7 +45,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       15,
       18
@@ -59,7 +59,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       10,
       15
@@ -73,7 +73,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       2,
       10
@@ -87,7 +87,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       13,
       14
@@ -101,7 +101,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       11.5,
       12
@@ -115,7 +115,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -17.5,
       -10
@@ -129,7 +129,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       -5,
       3
@@ -143,7 +143,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -4,
       -2
@@ -157,7 +157,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       22,
       31.5
@@ -171,7 +171,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "+01",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       27,
       36
@@ -185,7 +185,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       35.9,
       36.5
@@ -199,7 +199,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       7,
       12.5
@@ -213,7 +213,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       12,
       16
@@ -227,7 +227,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       -10,
       -5
@@ -241,7 +241,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       10,
       13
@@ -255,7 +255,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       3,
       13
@@ -269,7 +269,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "+01",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       26,
       28
@@ -283,7 +283,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       6,
       9
@@ -297,7 +297,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -27,
       -20
@@ -311,7 +311,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -22,
       -10
@@ -325,7 +325,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "SAST",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -35,
       -22
@@ -339,7 +339,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       4.85,
       4.85
@@ -353,7 +353,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       -1,
       4
@@ -367,7 +367,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       8,
       23
@@ -381,7 +381,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -2,
       3
@@ -395,7 +395,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       -5,
       -5
@@ -409,7 +409,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       4,
       14
@@ -423,7 +423,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       -4,
       1
@@ -437,7 +437,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       6.1319,
       6.1319
@@ -451,7 +451,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       -18,
       -8
@@ -465,7 +465,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -11.65,
       -11.65
@@ -479,7 +479,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -18,
       -8
@@ -493,7 +493,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       1,
       3.5
@@ -507,7 +507,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -27,
       -22
@@ -521,7 +521,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "SAST",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -30,
       -28
@@ -535,7 +535,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "SAST",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -27,
       -25
@@ -549,7 +549,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       2.0469,
       2.0469
@@ -563,7 +563,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       6.3,
       6.3
@@ -577,7 +577,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       -5,
       5
@@ -591,7 +591,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       12.1,
       12.1
@@ -605,7 +605,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       11,
       23
@@ -619,7 +619,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       15,
       20
@@ -633,7 +633,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       10,
       15
@@ -647,7 +647,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "WAT",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       6,
       12
@@ -661,7 +661,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:05Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       0,
       1.5
@@ -675,7 +675,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "EET",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       32.9,
       32.9
@@ -689,7 +689,7 @@
     "offset": "+01",
     "dst": false,
     "abbreviation": "CET",
-    "currentTime": "2025-10-21T02:03:05+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       30,
       37.5
@@ -703,7 +703,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "CAT",
-    "currentTime": "2025-10-21T03:03:05+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -29,
       -17
@@ -717,7 +717,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       40,
       48
@@ -731,7 +731,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       29,
       33.5
@@ -745,7 +745,7 @@
     "offset": "+12",
     "dst": false,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:05+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       50,
       65
@@ -759,7 +759,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       40,
       47
@@ -773,7 +773,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       45,
       55
@@ -787,7 +787,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       35,
       42
@@ -801,7 +801,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       46,
       47
@@ -815,7 +815,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       29,
       37
@@ -829,7 +829,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       25,
       27
@@ -843,7 +843,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:05+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       38,
       42
@@ -857,7 +857,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       5,
       20
@@ -871,7 +871,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       51,
       54
@@ -885,7 +885,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       33,
       34
@@ -899,7 +899,7 @@
     "offset": "+06",
     "dst": false,
     "abbreviation": "+06",
-    "currentTime": "2025-10-21T07:03:05+06:00",
+    "currentTime": "2025-10-22T07:04:22+06:00",
     "latRange": [
       39,
       43
@@ -913,7 +913,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+08",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       4,
       6
@@ -927,7 +927,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "+09",
-    "currentTime": "2025-10-21T10:03:05+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       51,
       54
@@ -941,7 +941,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+08",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       42,
       50
@@ -955,7 +955,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       29,
       38
@@ -969,7 +969,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+0530",
-    "currentTime": "2025-10-21T06:33:05+05:30",
+    "currentTime": "2025-10-22T06:34:22+05:30",
     "latRange": [
       5,
       10
@@ -983,7 +983,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       32,
       37
@@ -997,7 +997,7 @@
     "offset": "+06",
     "dst": false,
     "abbreviation": "+06",
-    "currentTime": "2025-10-21T07:03:05+06:00",
+    "currentTime": "2025-10-22T07:04:22+06:00",
     "latRange": [
       20,
       28
@@ -1011,7 +1011,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "+09",
-    "currentTime": "2025-10-21T10:03:05+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       -10,
       -8
@@ -1025,7 +1025,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:05+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       20,
       30
@@ -1039,7 +1039,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       37,
       42
@@ -1053,7 +1053,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       35,
       36
@@ -1067,7 +1067,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       31,
       32.5
@@ -1081,7 +1081,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       31,
       32.5
@@ -1095,7 +1095,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       8,
       23
@@ -1109,7 +1109,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "HKT",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       22,
       23.5
@@ -1123,7 +1123,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       45,
       50
@@ -1137,7 +1137,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+08",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       50,
       60
@@ -1151,7 +1151,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "WIB",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       -6,
       -4
@@ -1165,7 +1165,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "WIT",
-    "currentTime": "2025-10-21T10:03:05+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       -10,
       -5
@@ -1179,7 +1179,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "IDT",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       31,
       32.5
@@ -1193,7 +1193,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+0430",
-    "currentTime": "2025-10-21T05:33:05+04:30",
+    "currentTime": "2025-10-22T05:34:22+04:30",
     "latRange": [
       29,
       38
@@ -1207,7 +1207,7 @@
     "offset": "+12",
     "dst": false,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:05+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       50,
       60
@@ -1221,7 +1221,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "PKT",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       23,
       30
@@ -1235,7 +1235,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+0545",
-    "currentTime": "2025-10-21T06:48:05+05:45",
+    "currentTime": "2025-10-22T06:49:22+05:45",
     "latRange": [
       26,
       31
@@ -1249,7 +1249,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "+09",
-    "currentTime": "2025-10-21T10:03:05+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       61,
       63
@@ -1263,7 +1263,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "IST",
-    "currentTime": "2025-10-21T06:33:05+05:30",
+    "currentTime": "2025-10-22T06:34:22+05:30",
     "latRange": [
       6,
       38
@@ -1277,7 +1277,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       50,
       60
@@ -1291,7 +1291,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+08",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       1,
       7
@@ -1305,7 +1305,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+08",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       0,
       5
@@ -1319,7 +1319,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       22,
       23
@@ -1333,7 +1333,7 @@
     "offset": "+11",
     "dst": false,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:05+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       50,
       60
@@ -1347,7 +1347,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "WITA",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       -10,
       5
@@ -1361,7 +1361,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "PST",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       4,
       22
@@ -1375,7 +1375,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       33,
       35
@@ -1389,7 +1389,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       51,
       60
@@ -1403,7 +1403,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       51,
       60
@@ -1417,7 +1417,7 @@
     "offset": "+06",
     "dst": false,
     "abbreviation": "+06",
-    "currentTime": "2025-10-21T07:03:05+06:00",
+    "currentTime": "2025-10-22T07:04:22+06:00",
     "latRange": [
       51,
       60
@@ -1431,7 +1431,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       45,
       53
@@ -1445,7 +1445,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "WIB",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       -1,
       1
@@ -1459,7 +1459,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "KST",
-    "currentTime": "2025-10-21T10:03:05+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       37,
       41
@@ -1473,7 +1473,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       24,
       30
@@ -1487,7 +1487,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:05+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       12,
       25
@@ -1501,7 +1501,7 @@
     "offset": "+11",
     "dst": false,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:05+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       46,
       54
@@ -1515,7 +1515,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       37,
       43
@@ -1529,7 +1529,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "KST",
-    "currentTime": "2025-10-21T10:03:05+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       33,
       39
@@ -1543,7 +1543,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       18,
       54
@@ -1557,7 +1557,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+08",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       1,
       2
@@ -1571,7 +1571,7 @@
     "offset": "+11",
     "dst": false,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:05+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       63,
       67
@@ -1585,7 +1585,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       20,
       25
@@ -1599,7 +1599,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       37,
       44
@@ -1613,7 +1613,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:05+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       41,
       43
@@ -1627,7 +1627,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+0330",
-    "currentTime": "2025-10-21T04:33:05+03:30",
+    "currentTime": "2025-10-22T04:34:22+03:30",
     "latRange": [
       25,
       40
@@ -1641,7 +1641,7 @@
     "offset": "+06",
     "dst": false,
     "abbreviation": "+06",
-    "currentTime": "2025-10-21T07:03:05+06:00",
+    "currentTime": "2025-10-22T07:04:22+06:00",
     "latRange": [
       26,
       30
@@ -1655,7 +1655,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "JST",
-    "currentTime": "2025-10-21T10:03:05+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       35,
       36
@@ -1669,7 +1669,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       55,
       57
@@ -1683,7 +1683,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+08",
-    "currentTime": "2025-10-21T09:03:05+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       41,
       50
@@ -1697,7 +1697,7 @@
     "offset": "+06",
     "dst": false,
     "abbreviation": "+06",
-    "currentTime": "2025-10-21T07:03:05+06:00",
+    "currentTime": "2025-10-22T07:04:22+06:00",
     "latRange": [
       35,
       50
@@ -1711,7 +1711,7 @@
     "offset": "+10",
     "dst": false,
     "abbreviation": "+10",
-    "currentTime": "2025-10-21T11:03:05+10:00",
+    "currentTime": "2025-10-22T11:04:22+10:00",
     "latRange": [
       62,
       65
@@ -1725,7 +1725,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:05+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       14,
       23
@@ -1739,7 +1739,7 @@
     "offset": "+10",
     "dst": false,
     "abbreviation": "+10",
-    "currentTime": "2025-10-21T11:03:05+10:00",
+    "currentTime": "2025-10-22T11:04:22+10:00",
     "latRange": [
       42,
       44
@@ -1753,7 +1753,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "+09",
-    "currentTime": "2025-10-21T10:03:05+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       50,
       65
@@ -1767,7 +1767,7 @@
     "offset": "+06",
     "dst": false,
     "abbreviation": "+0630",
-    "currentTime": "2025-10-21T07:33:05+06:30",
+    "currentTime": "2025-10-22T07:34:22+06:30",
     "latRange": [
       15,
       21
@@ -1781,7 +1781,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:05+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       56,
       57
@@ -1795,7 +1795,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:05+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       39,
       41
@@ -1809,7 +1809,7 @@
     "offset": "-09",
     "dst": true,
     "abbreviation": "HDT",
-    "currentTime": "2025-10-20T16:03:05-09:00",
+    "currentTime": "2025-10-21T16:04:22-09:00",
     "latRange": [
       51,
       60
@@ -1823,7 +1823,7 @@
     "offset": "-08",
     "dst": true,
     "abbreviation": "AKDT",
-    "currentTime": "2025-10-20T17:03:05-08:00",
+    "currentTime": "2025-10-21T17:04:22-08:00",
     "latRange": [
       51,
       60
@@ -1837,7 +1837,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:05-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       18,
       20
@@ -1851,7 +1851,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:05-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       16,
       18
@@ -1865,7 +1865,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -8,
       -7
@@ -1879,7 +1879,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -55,
       -40
@@ -1893,7 +1893,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -30,
       -26
@@ -1907,7 +1907,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -35,
       -31
@@ -1921,7 +1921,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -24,
       -22
@@ -1935,7 +1935,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -30,
       -28
@@ -1949,7 +1949,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -34,
       -32
@@ -1963,7 +1963,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -52,
       -51
@@ -1977,7 +1977,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -25,
       -24
@@ -1991,7 +1991,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -32,
       -31
@@ -2005,7 +2005,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -34,
       -33
@@ -2019,7 +2019,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -27,
       -26
@@ -2033,7 +2033,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -54,
       -53
@@ -2047,7 +2047,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:05-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       12,
       13
@@ -2061,7 +2061,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -20,
       -25
@@ -2075,7 +2075,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "EST",
-    "currentTime": "2025-10-20T20:03:05-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       48,
       49
@@ -2089,7 +2089,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -15,
       -12
@@ -2103,7 +2103,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:05-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       20,
       21
@@ -2117,7 +2117,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:05-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       13,
       14
@@ -2131,7 +2131,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:05-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -2,
       -1
@@ -2145,7 +2145,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:05-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       16,
       18
@@ -2159,7 +2159,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:05-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       51,
       52
@@ -2173,7 +2173,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "-04",
-    "currentTime": "2025-10-20T21:03:05-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       1,
       3
@@ -2187,7 +2187,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "-05",
-    "currentTime": "2025-10-20T20:03:05-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       1,
       13
@@ -2201,7 +2201,7 @@
     "offset": "-06",
     "dst": true,
     "abbreviation": "MDT",
-    "currentTime": "2025-10-20T19:03:05-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       42,
       44
@@ -2215,7 +2215,7 @@
     "offset": "-06",
     "dst": true,
     "abbreviation": "MDT",
-    "currentTime": "2025-10-20T19:03:05-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       65,
       70
@@ -2229,7 +2229,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "-04",
-    "currentTime": "2025-10-20T21:03:05-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       -21,
       -20
@@ -2243,7 +2243,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "EST",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       18,
       21
@@ -2257,7 +2257,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "-04",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       0,
       12
@@ -2271,7 +2271,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       3,
       6
@@ -2285,7 +2285,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "EST",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       19,
       20
@@ -2299,7 +2299,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       35,
       49
@@ -2313,7 +2313,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       26,
       32
@@ -2327,7 +2327,7 @@
     "offset": "-06",
     "dst": true,
     "abbreviation": "MDT",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       31,
       32
@@ -2341,7 +2341,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       8,
       11
@@ -2355,7 +2355,7 @@
     "offset": "-07",
     "dst": false,
     "abbreviation": "MST",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       49,
       50
@@ -2369,7 +2369,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "-04",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       -16,
       -15
@@ -2383,7 +2383,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       12,
       13
@@ -2397,7 +2397,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:06Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       76,
       77
@@ -2411,7 +2411,7 @@
     "offset": "-07",
     "dst": false,
     "abbreviation": "MST",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       60,
       65
@@ -2425,7 +2425,7 @@
     "offset": "-07",
     "dst": false,
     "abbreviation": "MST",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       55,
       60
@@ -2439,7 +2439,7 @@
     "offset": "-06",
     "dst": true,
     "abbreviation": "MDT",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       32,
       42
@@ -2453,7 +2453,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       41,
       45
@@ -2467,7 +2467,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       15,
       16
@@ -2481,7 +2481,7 @@
     "offset": "-06",
     "dst": true,
     "abbreviation": "MDT",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       49,
       60
@@ -2495,7 +2495,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "-05",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       -9,
       -5
@@ -2509,7 +2509,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       13,
       15
@@ -2523,7 +2523,7 @@
     "offset": "-07",
     "dst": false,
     "abbreviation": "MST",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       58,
       60
@@ -2537,7 +2537,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -5,
       -3
@@ -2551,7 +2551,7 @@
     "offset": "-03",
     "dst": true,
     "abbreviation": "ADT",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       46,
       48
@@ -2565,7 +2565,7 @@
     "offset": "-01",
     "dst": true,
     "abbreviation": "-01",
-    "currentTime": "2025-10-21T00:03:06-01:00",
+    "currentTime": "2025-10-22T00:04:22-01:00",
     "latRange": [
       63,
       65
@@ -2579,7 +2579,7 @@
     "offset": "-03",
     "dst": true,
     "abbreviation": "ADT",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       53,
       54
@@ -2593,7 +2593,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       21,
       22
@@ -2607,7 +2607,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       12,
       13
@@ -2621,7 +2621,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       15,
       17
@@ -2635,7 +2635,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       13,
       18
@@ -2649,7 +2649,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "-05",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       -3,
       0
@@ -2663,7 +2663,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "-04",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       4,
       9
@@ -2677,7 +2677,7 @@
     "offset": "-03",
     "dst": true,
     "abbreviation": "ADT",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       42,
       48
@@ -2691,7 +2691,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       20,
       23
@@ -2705,7 +2705,7 @@
     "offset": "-07",
     "dst": false,
     "abbreviation": "MST",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       29,
       30
@@ -2719,7 +2719,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       38,
       42
@@ -2733,7 +2733,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       41,
       42
@@ -2747,7 +2747,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       38,
       39
@@ -2761,7 +2761,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       38,
       39
@@ -2775,7 +2775,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       37,
       38
@@ -2789,7 +2789,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       38,
       39
@@ -2803,7 +2803,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       38,
       39
@@ -2817,7 +2817,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       41,
       42
@@ -2831,7 +2831,7 @@
     "offset": "-06",
     "dst": true,
     "abbreviation": "MDT",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       68,
       69
@@ -2845,7 +2845,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       60,
       70
@@ -2859,7 +2859,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "EST",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       16,
       19
@@ -2873,7 +2873,7 @@
     "offset": "-08",
     "dst": true,
     "abbreviation": "AKDT",
-    "currentTime": "2025-10-20T17:03:06-08:00",
+    "currentTime": "2025-10-21T17:04:22-08:00",
     "latRange": [
       55,
       59
@@ -2887,7 +2887,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       36,
       38
@@ -2901,7 +2901,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       36,
       37
@@ -2915,7 +2915,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       12,
       13
@@ -2929,7 +2929,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "-04",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       -17,
       -16
@@ -2943,7 +2943,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "-05",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       -18,
       -5
@@ -2957,7 +2957,7 @@
     "offset": "-07",
     "dst": true,
     "abbreviation": "PDT",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       32,
       50
@@ -2971,7 +2971,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       18,
       19
@@ -2985,7 +2985,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -10,
       -9
@@ -2999,7 +2999,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       11,
       13
@@ -3013,7 +3013,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "-04",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       -3,
       -2
@@ -3027,7 +3027,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       18,
       19
@@ -3041,7 +3041,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       14,
       15
@@ -3055,7 +3055,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       25,
       27
@@ -3069,7 +3069,7 @@
     "offset": "-07",
     "dst": false,
     "abbreviation": "MST",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       23,
       25
@@ -3083,7 +3083,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       45,
       46
@@ -3097,7 +3097,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       20,
       21
@@ -3111,7 +3111,7 @@
     "offset": "-08",
     "dst": true,
     "abbreviation": "AKDT",
-    "currentTime": "2025-10-20T17:03:06-08:00",
+    "currentTime": "2025-10-21T17:04:22-08:00",
     "latRange": [
       55,
       56
@@ -3125,7 +3125,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       19,
       21
@@ -3139,7 +3139,7 @@
     "offset": "-02",
     "dst": true,
     "abbreviation": "-02",
-    "currentTime": "2025-10-20T23:03:06-02:00",
+    "currentTime": "2025-10-21T23:04:22-02:00",
     "latRange": [
       47,
       48
@@ -3153,7 +3153,7 @@
     "offset": "-03",
     "dst": true,
     "abbreviation": "ADT",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       46,
       47
@@ -3167,7 +3167,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       25,
       27
@@ -3181,7 +3181,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -35,
       -34
@@ -3195,7 +3195,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       45,
       46
@@ -3209,7 +3209,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       16.5,
       17
@@ -3223,7 +3223,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       24,
       26
@@ -3237,7 +3237,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       40,
       45
@@ -3251,7 +3251,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       49,
       50
@@ -3265,7 +3265,7 @@
     "offset": "-08",
     "dst": true,
     "abbreviation": "AKDT",
-    "currentTime": "2025-10-20T17:03:06-08:00",
+    "currentTime": "2025-10-21T17:04:22-08:00",
     "latRange": [
       64,
       65
@@ -3279,7 +3279,7 @@
     "offset": "-02",
     "dst": false,
     "abbreviation": "-02",
-    "currentTime": "2025-10-20T23:03:06-02:00",
+    "currentTime": "2025-10-21T23:04:22-02:00",
     "latRange": [
       -3.9,
       -3.8
@@ -3293,7 +3293,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       47,
       48
@@ -3307,7 +3307,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       47,
       48
@@ -3321,7 +3321,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       47,
       48
@@ -3335,7 +3335,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       28,
       30
@@ -3349,7 +3349,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "EST",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       7,
       10
@@ -3363,7 +3363,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       65,
       66
@@ -3377,7 +3377,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       5,
       6
@@ -3391,7 +3391,7 @@
     "offset": "-07",
     "dst": false,
     "abbreviation": "MST",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       32,
       35
@@ -3405,7 +3405,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       10,
       11
@@ -3419,7 +3419,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       18,
       19
@@ -3433,7 +3433,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "-04",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       -9,
       -8
@@ -3447,7 +3447,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       18,
       19
@@ -3461,7 +3461,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -53,
       -52
@@ -3475,7 +3475,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       48,
       49
@@ -3489,7 +3489,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       62,
       63
@@ -3503,7 +3503,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -8,
       -7
@@ -3517,7 +3517,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       50,
       51
@@ -3531,7 +3531,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       74,
       75
@@ -3545,7 +3545,7 @@
     "offset": "-05",
     "dst": false,
     "abbreviation": "-05",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       -10,
       -9
@@ -3559,7 +3559,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -3,
       -2
@@ -3573,7 +3573,7 @@
     "offset": "-03",
     "dst": true,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -34,
       -33
@@ -3587,7 +3587,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       18,
       19
@@ -3601,7 +3601,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -24,
       -23
@@ -3615,7 +3615,7 @@
     "offset": "-01",
     "dst": true,
     "abbreviation": "-01",
-    "currentTime": "2025-10-21T00:03:06-01:00",
+    "currentTime": "2025-10-22T00:04:22-01:00",
     "latRange": [
       70,
       71
@@ -3629,7 +3629,7 @@
     "offset": "-08",
     "dst": true,
     "abbreviation": "AKDT",
-    "currentTime": "2025-10-20T17:03:06-08:00",
+    "currentTime": "2025-10-21T17:04:22-08:00",
     "latRange": [
       56,
       57
@@ -3643,7 +3643,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       17,
       18
@@ -3657,7 +3657,7 @@
     "offset": "-02",
     "dst": true,
     "abbreviation": "NDT",
-    "currentTime": "2025-10-20T22:33:06-02:30",
+    "currentTime": "2025-10-21T22:34:22-02:30",
     "latRange": [
       47,
       48
@@ -3671,7 +3671,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       17,
       18
@@ -3685,7 +3685,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       13,
       14
@@ -3699,7 +3699,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       18,
       19
@@ -3713,7 +3713,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       13,
       14
@@ -3727,7 +3727,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       50,
       51
@@ -3741,7 +3741,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "CST",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       14,
       15
@@ -3755,7 +3755,7 @@
     "offset": "-03",
     "dst": true,
     "abbreviation": "ADT",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       76,
       77
@@ -3769,7 +3769,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       48,
       49
@@ -3783,7 +3783,7 @@
     "offset": "-07",
     "dst": true,
     "abbreviation": "PDT",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       32,
       33
@@ -3797,7 +3797,7 @@
     "offset": "-04",
     "dst": true,
     "abbreviation": "EDT",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       43,
       44
@@ -3811,7 +3811,7 @@
     "offset": "-04",
     "dst": false,
     "abbreviation": "AST",
-    "currentTime": "2025-10-20T21:03:06-04:00",
+    "currentTime": "2025-10-21T21:04:22-04:00",
     "latRange": [
       18,
       19
@@ -3825,7 +3825,7 @@
     "offset": "-07",
     "dst": true,
     "abbreviation": "PDT",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       49,
       50
@@ -3839,7 +3839,7 @@
     "offset": "-07",
     "dst": false,
     "abbreviation": "MST",
-    "currentTime": "2025-10-20T18:03:06-07:00",
+    "currentTime": "2025-10-21T18:04:22-07:00",
     "latRange": [
       60,
       61
@@ -3853,7 +3853,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "CDT",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       49,
       50
@@ -3867,7 +3867,7 @@
     "offset": "-08",
     "dst": true,
     "abbreviation": "AKDT",
-    "currentTime": "2025-10-20T17:03:06-08:00",
+    "currentTime": "2025-10-21T17:04:22-08:00",
     "latRange": [
       59,
       60
@@ -3881,7 +3881,7 @@
     "offset": "-06",
     "dst": true,
     "abbreviation": "MDT",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       62,
       63
@@ -3895,7 +3895,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+08",
-    "currentTime": "2025-10-21T09:03:06+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       -66,
       -50
@@ -3909,7 +3909,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:06+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       -70,
       -60
@@ -3923,7 +3923,7 @@
     "offset": "+10",
     "dst": false,
     "abbreviation": "+10",
-    "currentTime": "2025-10-21T11:03:06+10:00",
+    "currentTime": "2025-10-22T11:04:22+10:00",
     "latRange": [
       -70,
       -60
@@ -3937,7 +3937,7 @@
     "offset": "+11",
     "dst": true,
     "abbreviation": "AEDT",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -55,
       -54
@@ -3951,7 +3951,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:06+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       -68,
       -66
@@ -3965,7 +3965,7 @@
     "offset": "+13",
     "dst": true,
     "abbreviation": "NZDT",
-    "currentTime": "2025-10-21T14:03:06+13:00",
+    "currentTime": "2025-10-22T14:04:22+13:00",
     "latRange": [
       -90,
       -60
@@ -3979,7 +3979,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -80,
       -60
@@ -3993,7 +3993,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -68,
       -66
@@ -4007,7 +4007,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       -69,
       -60
@@ -4021,7 +4021,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "+02",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       -80,
       -60
@@ -4035,7 +4035,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:06+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       -78,
       -60
@@ -4049,7 +4049,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       74,
       82
@@ -4063,7 +4063,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "UTC",
-    "currentTime": "2025-10-21T01:03:06Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       76,
       83
@@ -4077,7 +4077,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "UTC",
-    "currentTime": "2025-10-21T01:03:06Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       70,
       80
@@ -4091,7 +4091,7 @@
     "offset": "+00",
     "dst": true,
     "abbreviation": "+00",
-    "currentTime": "2025-10-21T01:03:06Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       36,
       40
@@ -4105,7 +4105,7 @@
     "offset": "-03",
     "dst": true,
     "abbreviation": "ADT",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       31,
       34
@@ -4119,7 +4119,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "WEST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       27,
       30
@@ -4133,7 +4133,7 @@
     "offset": "-01",
     "dst": false,
     "abbreviation": "-01",
-    "currentTime": "2025-10-21T00:03:06-01:00",
+    "currentTime": "2025-10-22T00:04:22-01:00",
     "latRange": [
       14,
       17
@@ -4147,7 +4147,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "WEST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       61,
       63
@@ -4161,7 +4161,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "WEST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       61,
       63
@@ -4175,7 +4175,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       70,
       80
@@ -4189,7 +4189,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "WEST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       32,
       34
@@ -4203,7 +4203,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:06Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       63,
       66
@@ -4217,7 +4217,7 @@
     "offset": "-02",
     "dst": false,
     "abbreviation": "-02",
-    "currentTime": "2025-10-20T23:03:06-02:00",
+    "currentTime": "2025-10-21T23:04:22-02:00",
     "latRange": [
       -54,
       -54
@@ -4231,7 +4231,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "GMT",
-    "currentTime": "2025-10-21T01:03:06Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       -15,
       -14
@@ -4245,7 +4245,7 @@
     "offset": "-03",
     "dst": false,
     "abbreviation": "-03",
-    "currentTime": "2025-10-20T22:03:06-03:00",
+    "currentTime": "2025-10-21T22:04:22-03:00",
     "latRange": [
       -50,
       -48
@@ -4259,7 +4259,7 @@
     "offset": "+10",
     "dst": true,
     "abbreviation": "ACDT",
-    "currentTime": "2025-10-21T11:33:06+10:30",
+    "currentTime": "2025-10-22T11:34:22+10:30",
     "latRange": [
       -44,
       -35
@@ -4273,7 +4273,7 @@
     "offset": "+10",
     "dst": false,
     "abbreviation": "AEST",
-    "currentTime": "2025-10-21T11:03:06+10:00",
+    "currentTime": "2025-10-22T11:04:22+10:00",
     "latRange": [
       -30,
       -25
@@ -4287,7 +4287,7 @@
     "offset": "+10",
     "dst": true,
     "abbreviation": "ACDT",
-    "currentTime": "2025-10-21T11:33:06+10:30",
+    "currentTime": "2025-10-22T11:34:22+10:30",
     "latRange": [
       -32,
       -29
@@ -4301,7 +4301,7 @@
     "offset": "+11",
     "dst": true,
     "abbreviation": "AEDT",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -40,
       -39
@@ -4315,7 +4315,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "ACST",
-    "currentTime": "2025-10-21T10:33:06+09:30",
+    "currentTime": "2025-10-22T10:34:22+09:30",
     "latRange": [
       -16,
       -12
@@ -4329,7 +4329,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "+0845",
-    "currentTime": "2025-10-21T09:48:06+08:45",
+    "currentTime": "2025-10-22T09:49:22+08:45",
     "latRange": [
       -34,
       -30
@@ -4343,7 +4343,7 @@
     "offset": "+11",
     "dst": true,
     "abbreviation": "AEDT",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -44,
       -40
@@ -4357,7 +4357,7 @@
     "offset": "+10",
     "dst": false,
     "abbreviation": "AEST",
-    "currentTime": "2025-10-21T11:03:06+10:00",
+    "currentTime": "2025-10-22T11:04:22+10:00",
     "latRange": [
       -23,
       -21
@@ -4371,7 +4371,7 @@
     "offset": "+11",
     "dst": true,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -32,
       -30
@@ -4385,7 +4385,7 @@
     "offset": "+11",
     "dst": true,
     "abbreviation": "AEDT",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -38,
       -37
@@ -4399,7 +4399,7 @@
     "offset": "+08",
     "dst": false,
     "abbreviation": "AWST",
-    "currentTime": "2025-10-21T09:03:06+08:00",
+    "currentTime": "2025-10-22T09:04:22+08:00",
     "latRange": [
       -35,
       -25
@@ -4413,7 +4413,7 @@
     "offset": "+11",
     "dst": true,
     "abbreviation": "AEDT",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -37,
       -33
@@ -4427,7 +4427,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       50,
       53
@@ -4441,7 +4441,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       42,
       43
@@ -4455,7 +4455,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       35,
       42
@@ -4469,7 +4469,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "BST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       54,
       56
@@ -4483,7 +4483,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       47,
       55
@@ -4497,7 +4497,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       47,
       49
@@ -4511,7 +4511,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       49,
       51
@@ -4525,7 +4525,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       43,
       48
@@ -4539,7 +4539,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       45,
       48
@@ -4553,7 +4553,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       54,
       57
@@ -4567,7 +4567,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "IST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       51,
       55
@@ -4581,7 +4581,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       36,
       37
@@ -4595,7 +4595,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       60,
       70
@@ -4609,7 +4609,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "BST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       54,
       57
@@ -4623,7 +4623,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       40,
       42
@@ -4637,7 +4637,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "BST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       49,
       50
@@ -4651,7 +4651,7 @@
     "offset": "+02",
     "dst": false,
     "abbreviation": "EET",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       54,
       56
@@ -4665,7 +4665,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       44,
       50
@@ -4679,7 +4679,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "MSK",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       58,
       59
@@ -4693,7 +4693,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "WEST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       37,
       40
@@ -4707,7 +4707,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       45,
       47
@@ -4721,7 +4721,7 @@
     "offset": "+01",
     "dst": true,
     "abbreviation": "BST",
-    "currentTime": "2025-10-21T02:03:06+01:00",
+    "currentTime": "2025-10-22T02:04:22+01:00",
     "latRange": [
       50,
       58
@@ -4735,7 +4735,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       49,
       50
@@ -4749,7 +4749,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       36,
       43
@@ -4763,7 +4763,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       35,
       36
@@ -4777,7 +4777,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       60,
       61
@@ -4791,7 +4791,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "+03",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       53,
       55
@@ -4805,7 +4805,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       43.5,
       44
@@ -4819,7 +4819,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "MSK",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       55,
       59
@@ -4833,7 +4833,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       59,
       62
@@ -4847,7 +4847,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       41,
       51
@@ -4861,7 +4861,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       49,
       51
@@ -4875,7 +4875,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       55,
       58
@@ -4889,7 +4889,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       41,
       45
@@ -4903,7 +4903,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:06+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       50,
       55
@@ -4917,7 +4917,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       43,
       44
@@ -4931,7 +4931,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:06+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       51,
       52
@@ -4945,7 +4945,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "MSK",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       44,
       45
@@ -4959,7 +4959,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       41,
       44
@@ -4973,7 +4973,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       59,
       60
@@ -4987,7 +4987,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       57,
       59
@@ -5001,7 +5001,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       40,
       42
@@ -5015,7 +5015,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:06+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       54,
       55
@@ -5029,7 +5029,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       48,
       49
@@ -5043,7 +5043,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       47,
       48
@@ -5057,7 +5057,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       41,
       42
@@ -5071,7 +5071,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       46,
       49
@@ -5085,7 +5085,7 @@
     "offset": "+03",
     "dst": true,
     "abbreviation": "EEST",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       54,
       57
@@ -5099,7 +5099,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "MSK",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       48,
       49
@@ -5113,7 +5113,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       51,
       53
@@ -5127,7 +5127,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       45,
       47
@@ -5141,7 +5141,7 @@
     "offset": "+02",
     "dst": true,
     "abbreviation": "CEST",
-    "currentTime": "2025-10-21T03:03:06+02:00",
+    "currentTime": "2025-10-22T03:04:22+02:00",
     "latRange": [
       47,
       48
@@ -5155,7 +5155,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       -26,
       -13
@@ -5169,7 +5169,7 @@
     "offset": "+06",
     "dst": false,
     "abbreviation": "+06",
-    "currentTime": "2025-10-21T07:03:06+06:00",
+    "currentTime": "2025-10-22T07:04:22+06:00",
     "latRange": [
       -7,
       -5
@@ -5183,7 +5183,7 @@
     "offset": "+07",
     "dst": false,
     "abbreviation": "+07",
-    "currentTime": "2025-10-21T08:03:06+07:00",
+    "currentTime": "2025-10-22T08:04:22+07:00",
     "latRange": [
       -11,
       -10
@@ -5197,7 +5197,7 @@
     "offset": "+06",
     "dst": false,
     "abbreviation": "+0630",
-    "currentTime": "2025-10-21T07:33:06+06:30",
+    "currentTime": "2025-10-22T07:34:22+06:30",
     "latRange": [
       -13,
       -11
@@ -5211,7 +5211,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       -12,
       -11
@@ -5225,7 +5225,7 @@
     "offset": "+00",
     "dst": false,
     "abbreviation": "UTC",
-    "currentTime": "2025-10-21T01:03:06Z",
+    "currentTime": "2025-10-22T01:04:22Z",
     "latRange": [
       28,
       30
@@ -5239,7 +5239,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:06+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       -49,
       -48
@@ -5253,7 +5253,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:06+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       -5,
       -4
@@ -5267,7 +5267,7 @@
     "offset": "+05",
     "dst": false,
     "abbreviation": "+05",
-    "currentTime": "2025-10-21T06:03:06+05:00",
+    "currentTime": "2025-10-22T06:04:22+05:00",
     "latRange": [
       -7,
       -3
@@ -5281,7 +5281,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:06+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       -20,
       -18
@@ -5295,7 +5295,7 @@
     "offset": "+03",
     "dst": false,
     "abbreviation": "EAT",
-    "currentTime": "2025-10-21T04:03:06+03:00",
+    "currentTime": "2025-10-22T04:04:22+03:00",
     "latRange": [
       -13,
       -12
@@ -5309,7 +5309,7 @@
     "offset": "+04",
     "dst": false,
     "abbreviation": "+04",
-    "currentTime": "2025-10-21T05:03:06+04:00",
+    "currentTime": "2025-10-22T05:04:22+04:00",
     "latRange": [
       -22,
       -21
@@ -5323,7 +5323,7 @@
     "offset": "+13",
     "dst": false,
     "abbreviation": "+13",
-    "currentTime": "2025-10-21T14:03:06+13:00",
+    "currentTime": "2025-10-22T14:04:22+13:00",
     "latRange": [
       -14,
       -13
@@ -5337,7 +5337,7 @@
     "offset": "+13",
     "dst": true,
     "abbreviation": "NZDT",
-    "currentTime": "2025-10-21T14:03:06+13:00",
+    "currentTime": "2025-10-22T14:04:22+13:00",
     "latRange": [
       -37,
       -34
@@ -5351,7 +5351,7 @@
     "offset": "+13",
     "dst": true,
     "abbreviation": "+1345",
-    "currentTime": "2025-10-21T14:48:06+13:45",
+    "currentTime": "2025-10-22T14:49:22+13:45",
     "latRange": [
       -44,
       -43
@@ -5365,7 +5365,7 @@
     "offset": "+10",
     "dst": false,
     "abbreviation": "+10",
-    "currentTime": "2025-10-21T11:03:06+10:00",
+    "currentTime": "2025-10-22T11:04:22+10:00",
     "latRange": [
       6,
       10
@@ -5379,7 +5379,7 @@
     "offset": "-05",
     "dst": true,
     "abbreviation": "-05",
-    "currentTime": "2025-10-20T20:03:06-05:00",
+    "currentTime": "2025-10-21T20:04:22-05:00",
     "latRange": [
       -28,
       -26
@@ -5393,7 +5393,7 @@
     "offset": "+11",
     "dst": false,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -17,
       -15
@@ -5407,7 +5407,7 @@
     "offset": "+13",
     "dst": false,
     "abbreviation": "+13",
-    "currentTime": "2025-10-21T14:03:06+13:00",
+    "currentTime": "2025-10-22T14:04:22+13:00",
     "latRange": [
       -4,
       -3
@@ -5421,7 +5421,7 @@
     "offset": "+13",
     "dst": false,
     "abbreviation": "+13",
-    "currentTime": "2025-10-21T14:03:06+13:00",
+    "currentTime": "2025-10-22T14:04:22+13:00",
     "latRange": [
       -9,
       -8
@@ -5435,7 +5435,7 @@
     "offset": "+12",
     "dst": false,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:06+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       -20,
       -15
@@ -5449,7 +5449,7 @@
     "offset": "+12",
     "dst": false,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:06+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       -8,
       -5
@@ -5463,7 +5463,7 @@
     "offset": "-06",
     "dst": false,
     "abbreviation": "-06",
-    "currentTime": "2025-10-20T19:03:06-06:00",
+    "currentTime": "2025-10-21T19:04:22-06:00",
     "latRange": [
       -1,
       -0.5
@@ -5477,7 +5477,7 @@
     "offset": "-09",
     "dst": false,
     "abbreviation": "-09",
-    "currentTime": "2025-10-20T16:03:06-09:00",
+    "currentTime": "2025-10-21T16:04:22-09:00",
     "latRange": [
       -24,
       -23
@@ -5491,7 +5491,7 @@
     "offset": "+11",
     "dst": false,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -10,
       -8
@@ -5505,7 +5505,7 @@
     "offset": "+10",
     "dst": false,
     "abbreviation": "ChST",
-    "currentTime": "2025-10-21T11:03:06+10:00",
+    "currentTime": "2025-10-22T11:04:22+10:00",
     "latRange": [
       12,
       14
@@ -5519,7 +5519,7 @@
     "offset": "+14",
     "dst": false,
     "abbreviation": "+14",
-    "currentTime": "2025-10-21T15:03:06+14:00",
+    "currentTime": "2025-10-22T15:04:22+14:00",
     "latRange": [
       1,
       3
@@ -5533,7 +5533,7 @@
     "offset": "+11",
     "dst": false,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       5,
       7
@@ -5547,7 +5547,7 @@
     "offset": "-09",
     "dst": false,
     "abbreviation": "-0930",
-    "currentTime": "2025-10-20T15:33:06-09:30",
+    "currentTime": "2025-10-21T15:34:22-09:30",
     "latRange": [
       -10.5,
       -8.5
@@ -5561,7 +5561,7 @@
     "offset": "+12",
     "dst": false,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:06+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       -1,
       0
@@ -5575,7 +5575,7 @@
     "offset": "-11",
     "dst": false,
     "abbreviation": "-11",
-    "currentTime": "2025-10-20T14:03:06-11:00",
+    "currentTime": "2025-10-21T14:04:22-11:00",
     "latRange": [
       -19,
       -18
@@ -5589,7 +5589,7 @@
     "offset": "+12",
     "dst": true,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:06+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       -36,
       -34
@@ -5603,7 +5603,7 @@
     "offset": "+11",
     "dst": false,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       -23,
       -21
@@ -5617,7 +5617,7 @@
     "offset": "-11",
     "dst": false,
     "abbreviation": "SST",
-    "currentTime": "2025-10-20T14:03:06-11:00",
+    "currentTime": "2025-10-21T14:04:22-11:00",
     "latRange": [
       -15,
       -13
@@ -5631,7 +5631,7 @@
     "offset": "+09",
     "dst": false,
     "abbreviation": "+09",
-    "currentTime": "2025-10-21T10:03:06+09:00",
+    "currentTime": "2025-10-22T10:04:22+09:00",
     "latRange": [
       6,
       8
@@ -5645,7 +5645,7 @@
     "offset": "-08",
     "dst": false,
     "abbreviation": "-08",
-    "currentTime": "2025-10-20T17:03:06-08:00",
+    "currentTime": "2025-10-21T17:04:22-08:00",
     "latRange": [
       -25,
       -24
@@ -5659,7 +5659,7 @@
     "offset": "+11",
     "dst": false,
     "abbreviation": "+11",
-    "currentTime": "2025-10-21T12:03:06+11:00",
+    "currentTime": "2025-10-22T12:04:22+11:00",
     "latRange": [
       5,
       7
@@ -5673,7 +5673,7 @@
     "offset": "+10",
     "dst": false,
     "abbreviation": "+10",
-    "currentTime": "2025-10-21T11:03:06+10:00",
+    "currentTime": "2025-10-22T11:04:22+10:00",
     "latRange": [
       -10,
       -5
@@ -5687,7 +5687,7 @@
     "offset": "-10",
     "dst": false,
     "abbreviation": "-10",
-    "currentTime": "2025-10-20T15:03:06-10:00",
+    "currentTime": "2025-10-21T15:04:22-10:00",
     "latRange": [
       -21,
       -19
@@ -5701,7 +5701,7 @@
     "offset": "-11",
     "dst": false,
     "abbreviation": "SST",
-    "currentTime": "2025-10-20T14:03:06-11:00",
+    "currentTime": "2025-10-21T14:04:22-11:00",
     "latRange": [
       -15,
       -13
@@ -5715,7 +5715,7 @@
     "offset": "-10",
     "dst": false,
     "abbreviation": "-10",
-    "currentTime": "2025-10-20T15:03:06-10:00",
+    "currentTime": "2025-10-21T15:04:22-10:00",
     "latRange": [
       -17,
       -15
@@ -5729,7 +5729,7 @@
     "offset": "+12",
     "dst": false,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:06+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       0,
       2
@@ -5743,7 +5743,7 @@
     "offset": "+13",
     "dst": false,
     "abbreviation": "+13",
-    "currentTime": "2025-10-21T14:03:06+13:00",
+    "currentTime": "2025-10-22T14:04:22+13:00",
     "latRange": [
       -22,
       -20
@@ -5757,7 +5757,7 @@
     "offset": "+12",
     "dst": false,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:06+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       19,
       20
@@ -5771,7 +5771,7 @@
     "offset": "+12",
     "dst": false,
     "abbreviation": "+12",
-    "currentTime": "2025-10-21T13:03:06+12:00",
+    "currentTime": "2025-10-22T13:04:22+12:00",
     "latRange": [
       -13,
       -12
